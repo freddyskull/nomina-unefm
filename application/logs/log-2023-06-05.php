@@ -1,0 +1,21 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-06-05 08:35:34 --> 404 Page Not Found --> wordpress
+ERROR - 2023-06-05 08:36:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 08:52:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 09:57:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 09:57:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 09:57:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 11:11:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 11:26:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 11:59:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 12:04:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 12:12:17 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2023-06-05 12:13:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 12:17:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 12:32:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 12:46:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 13:14:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 13:32:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 14:08:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-05 14:32:38 --> 404 Page Not Found --> favicon.ico

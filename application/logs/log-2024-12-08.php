@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-12-08 03:36:02 --> 404 Page Not Found --> .env
+ERROR - 2024-12-08 03:48:35 --> 404 Page Not Found --> wp-login.php
+ERROR - 2024-12-08 04:07:40 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2024-12-08 05:07:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-08 05:31:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-08 06:49:49 --> 404 Page Not Found --> .env
+ERROR - 2024-12-08 07:20:59 --> 404 Page Not Found --> .env
+ERROR - 2024-12-08 11:30:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-08 11:30:10 --> 404 Page Not Found --> nomi
+ERROR - 2024-12-08 11:49:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-08 12:39:16 --> 404 Page Not Found --> .env
+ERROR - 2024-12-08 13:10:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-12-08 16:20:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-12-08 16:41:21 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-12-08 17:44:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-12-08 18:00:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-08 19:22:05 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-12-08 19:46:07 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-12-08 21:23:29 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-08 22:50:45 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-12-08 23:18:39 --> 404 Page Not Found --> favicon.ico

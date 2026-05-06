@@ -1,0 +1,52 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-17 09:31:10 --> Severity: Warning  --> oci_pconnect(): ORA-12543: TNS:destination host unreachable /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 94
+ERROR - 2022-03-17 09:31:10 --> Unable to connect to the database
+ERROR - 2022-03-17 09:32:27 --> Severity: Warning  --> oci_pconnect(): ORA-12528: TNS:listener: all appropriate instances are blocking new connections /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 94
+ERROR - 2022-03-17 09:32:27 --> Unable to connect to the database
+ERROR - 2022-03-17 09:32:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 09:32:32 --> Severity: Warning  --> oci_pconnect(): ORA-01033: ORACLE initialization or shutdown in progress /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 94
+ERROR - 2022-03-17 09:32:32 --> Unable to connect to the database
+ERROR - 2022-03-17 09:32:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 09:42:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 09:49:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 09:53:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 10:13:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 10:13:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 10:16:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 10:26:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 10:27:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 10:30:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 10:32:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 10:39:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 10:42:30 --> 404 Page Not Found --> blog/assets
+ERROR - 2022-03-17 10:42:30 --> 404 Page Not Found --> blog/assets
+ERROR - 2022-03-17 10:52:47 --> 404 Page Not Found --> blog/assets
+ERROR - 2022-03-17 10:52:48 --> 404 Page Not Found --> blog/assets
+ERROR - 2022-03-17 10:52:48 --> 404 Page Not Found --> blog/assets
+ERROR - 2022-03-17 10:52:49 --> 404 Page Not Found --> blog/assets
+ERROR - 2022-03-17 11:03:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 11:03:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 11:12:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 11:19:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 12:00:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 12:45:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 12:45:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 13:41:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-17 14:27:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 14:34:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 15:39:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 16:12:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 16:38:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 16:54:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 16:57:16 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-17 17:14:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 18:11:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 18:19:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 18:22:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 19:41:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-17 20:23:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 20:23:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 20:29:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-17 21:16:12 --> 404 Page Not Found --> nomi
+ERROR - 2022-03-17 21:16:13 --> 404 Page Not Found --> favicon.ico

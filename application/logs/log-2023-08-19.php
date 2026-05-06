@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-19 03:56:45 --> 404 Page Not Found --> wordpress
+ERROR - 2023-08-19 04:44:03 --> 404 Page Not Found --> sitemap.xml.gz
+ERROR - 2023-08-19 05:31:48 --> 404 Page Not Found --> sitemap.xml.gz
+ERROR - 2023-08-19 09:07:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-19 09:16:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-19 09:38:33 --> 404 Page Not Found --> nomi
+ERROR - 2023-08-19 10:12:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-19 10:31:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-19 11:09:10 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2023-08-19 11:09:10 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2023-08-19 11:09:10 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2023-08-19 11:09:11 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2023-08-19 11:12:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-19 11:12:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-19 11:12:39 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2023-08-19 11:12:39 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2023-08-19 11:41:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-19 13:22:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-19 17:16:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-19 18:14:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-19 21:30:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-19 23:06:29 --> 404 Page Not Found --> nomi

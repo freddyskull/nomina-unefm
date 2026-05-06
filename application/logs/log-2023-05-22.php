@@ -1,0 +1,47 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-22 07:44:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 07:45:39 --> 404 Page Not Found --> blog/assets
+ERROR - 2023-05-22 07:53:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 08:33:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 08:40:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-05-22 08:40:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 08:44:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 08:59:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 09:06:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 09:06:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 09:09:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-05-22 09:09:02 --> 404 Page Not Found --> nomi
+ERROR - 2023-05-22 09:11:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 09:18:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 09:30:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-05-22 09:30:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 09:45:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 09:51:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 09:57:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 10:13:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 10:31:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 10:36:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 10:43:19 --> 404 Page Not Found --> nomi
+ERROR - 2023-05-22 10:46:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 11:09:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 11:27:23 --> 404 Page Not Found --> wp-login.php
+ERROR - 2023-05-22 11:28:55 --> 404 Page Not Found --> wp-login.php
+ERROR - 2023-05-22 12:00:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 12:07:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 12:34:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 12:39:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 12:41:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 13:14:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 15:17:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 17:34:20 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 59
+ERROR - 2023-05-22 17:34:20 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 133
+ERROR - 2023-05-22 17:34:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 17:59:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 20:33:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 20:47:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 20:55:12 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2023-05-22 21:25:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-05-22 22:00:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-05-22 22:22:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-22 23:03:15 --> 404 Page Not Found --> favicon.ico

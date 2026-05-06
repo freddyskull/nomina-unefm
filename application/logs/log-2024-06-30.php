@@ -1,0 +1,27 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-06-30 03:30:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-30 03:30:00 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-30 03:30:05 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2024-06-30 04:13:02 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-30 04:13:02 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-30 04:13:02 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-30 04:13:03 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-30 04:13:03 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-30 06:36:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-30 09:17:48 --> 404 Page Not Found --> wordpress
+ERROR - 2024-06-30 09:46:50 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-06-30 09:54:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-30 10:51:40 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-06-30 10:54:26 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-06-30 10:54:36 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-06-30 10:54:54 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-06-30 13:06:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-30 13:07:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-30 13:08:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-30 13:08:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-30 14:52:10 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-06-30 17:43:16 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-06-30 20:10:46 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-06-30 20:12:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-30 20:13:37 --> 404 Page Not Found --> robots.txt

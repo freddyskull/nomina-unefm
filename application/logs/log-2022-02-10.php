@@ -1,0 +1,44 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-10 01:02:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-02-10 01:02:23 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2022-02-10 01:02:23 --> 404 Page Not Found --> blog/robots.txt
+ERROR - 2022-02-10 01:02:24 --> 404 Page Not Found --> wordpress
+ERROR - 2022-02-10 01:02:24 --> 404 Page Not Found --> wp
+ERROR - 2022-02-10 04:33:24 --> 404 Page Not Found --> wordpress
+ERROR - 2022-02-10 07:24:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 08:10:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 08:11:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 08:11:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 08:20:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 09:00:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 09:28:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 09:52:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 10:02:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 11:02:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 11:06:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-02-10 11:22:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 11:31:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 11:38:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 11:44:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 11:47:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 12:19:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 12:58:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 13:37:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 13:49:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 13:58:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-02-10 14:44:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-02-10 15:14:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 15:26:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 15:38:13 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2022-02-10 16:08:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 17:26:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 17:46:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 19:28:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 19:38:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-02-10 20:34:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-02-10 22:24:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 22:40:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-02-10 23:15:11 --> Severity: Warning  --> oci_execute(): ORA-12899: value too large for column &quot;NOMINA&quot;.&quot;CONSUSR&quot;.&quot;CLAVE&quot; (actual: 14, maximum: 12) /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 173
+ERROR - 2022-02-10 23:15:11 --> Query error: 
+ERROR - 2022-02-10 23:15:12 --> 404 Page Not Found --> favicon.ico

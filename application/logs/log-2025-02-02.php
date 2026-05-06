@@ -1,0 +1,40 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-02-02 02:21:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 04:08:28 --> 404 Page Not Found --> .env
+ERROR - 2025-02-02 04:08:28 --> 404 Page Not Found --> vendor
+ERROR - 2025-02-02 08:03:47 --> 404 Page Not Found --> blog/assets
+ERROR - 2025-02-02 13:30:08 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2025-02-02 13:30:08 --> 404 Page Not Found --> favicon.png
+ERROR - 2025-02-02 13:30:09 --> 404 Page Not Found --> favicon.gif
+ERROR - 2025-02-02 13:30:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-02-02 15:18:20 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 59
+ERROR - 2025-02-02 15:18:20 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 133
+ERROR - 2025-02-02 15:18:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-02-02 15:34:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:56:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:56:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:56:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:57:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:57:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:57:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:57:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:57:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:57:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:57:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:57:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:57:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:58:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 15:58:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-02-02 15:58:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 16:26:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-02-02 18:01:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-02-02 21:10:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 22:07:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 22:07:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 22:07:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 22:07:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 22:07:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 22:07:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 22:29:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-02-02 22:29:53 --> 404 Page Not Found --> robots.txt

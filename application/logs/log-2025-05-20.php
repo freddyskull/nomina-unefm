@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-05-20 01:56:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-05-20 02:52:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-05-20 04:34:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-05-20 08:38:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 09:43:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 09:46:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-05-20 09:52:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 10:12:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 10:44:36 --> 404 Page Not Found --> blog/assets
+ERROR - 2025-05-20 10:45:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 10:46:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 11:00:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 11:01:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 11:04:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 11:21:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 11:25:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 11:36:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 13:12:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 13:17:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-05-20 15:03:42 --> 404 Page Not Found --> .env
+ERROR - 2025-05-20 16:30:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-05-20 20:14:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-05-20 20:38:31 --> 404 Page Not Found --> .env.bak
+ERROR - 2025-05-20 22:48:36 --> 404 Page Not Found --> robots.txt

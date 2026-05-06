@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-02 04:35:02 --> 404 Page Not Found --> wordpress
+ERROR - 2023-08-02 08:48:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 08:59:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 09:32:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 09:50:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 10:08:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 10:09:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 10:11:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-02 12:36:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 12:43:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 13:29:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 13:30:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 13:56:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-02 14:48:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 14:56:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-02 15:15:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 18:19:13 --> 404 Page Not Found --> blog/assets
+ERROR - 2023-08-02 19:48:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 19:58:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 20:21:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-02 21:32:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-02 21:49:33 --> 404 Page Not Found --> .aws
+ERROR - 2023-08-02 23:33:46 --> 404 Page Not Found --> robots.txt

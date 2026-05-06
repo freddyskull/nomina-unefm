@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-09-13 06:33:33 --> 404 Page Not Found --> wordpress
+ERROR - 2023-09-13 08:22:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-13 09:14:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-13 10:02:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-13 11:41:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-13 11:42:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-13 11:43:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-13 11:46:02 --> 404 Page Not Found --> ads.txt
+ERROR - 2023-09-13 11:46:02 --> 404 Page Not Found --> app-ads.txt
+ERROR - 2023-09-13 11:46:02 --> 404 Page Not Found --> sellers.json
+ERROR - 2023-09-13 11:46:03 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-13 11:46:03 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-13 11:46:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-13 11:46:07 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-13 11:46:07 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-13 11:46:07 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-13 11:46:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-13 11:46:07 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-13 11:46:07 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-13 11:46:07 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-13 11:46:38 --> 404 Page Not Found --> robots.txt

@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-03-02 01:48:23 --> 404 Page Not Found --> nomi
+ERROR - 2024-03-02 01:48:23 --> 404 Page Not Found --> nomi
+ERROR - 2024-03-02 01:48:24 --> 404 Page Not Found --> nomi
+ERROR - 2024-03-02 01:48:25 --> 404 Page Not Found --> nomi
+ERROR - 2024-03-02 01:48:25 --> 404 Page Not Found --> nomi
+ERROR - 2024-03-02 02:35:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 04:08:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-03-02 05:29:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-03-02 08:44:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 10:00:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 10:07:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 10:42:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 13:26:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 16:50:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 17:10:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 17:10:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 18:08:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 20:09:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 20:12:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 20:25:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 21:40:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-03-02 22:21:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-03-02 22:54:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-02 23:45:36 --> 404 Page Not Found --> favicon.ico

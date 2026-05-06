@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-11-05 07:55:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 08:34:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 09:14:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 09:33:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 09:41:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 10:23:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 10:27:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 10:31:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 10:52:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 10:52:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 10:57:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 11:04:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 11:10:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 11:21:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 11:44:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 12:18:50 --> 404 Page Not Found --> geju.php
+ERROR - 2024-11-05 12:24:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-05 12:25:22 --> 404 Page Not Found --> administrator
+ERROR - 2024-11-05 13:59:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 14:37:56 --> 404 Page Not Found --> user
+ERROR - 2024-11-05 15:25:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 15:53:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-05 19:03:05 --> 404 Page Not Found --> wp-content
+ERROR - 2024-11-05 19:03:05 --> 404 Page Not Found --> wp-content

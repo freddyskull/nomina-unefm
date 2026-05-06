@@ -1,0 +1,59 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-02-13 08:56:27 --> 404 Page Not Found --> nomi
+ERROR - 2023-02-13 09:06:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 09:15:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 09:50:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-02-13 09:54:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 10:03:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 10:18:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 10:51:31 --> Severity: Warning  --> oci_execute(): ORA-12899: value too large for column &quot;NOMINA&quot;.&quot;CONSUSR&quot;.&quot;CLAVE&quot; (actual: 15, maximum: 12) /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 173
+ERROR - 2023-02-13 10:51:31 --> Query error: 
+ERROR - 2023-02-13 10:51:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:12:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:13:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:17:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:17:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:27:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:28:37 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2023-02-13 11:28:37 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2023-02-13 11:28:40 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2023-02-13 11:28:40 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2023-02-13 11:29:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:29:48 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2023-02-13 11:29:49 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2023-02-13 11:31:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:32:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:33:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:47:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 11:47:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 12:01:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 12:20:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 12:50:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 13:49:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 14:26:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-02-13 14:26:48 --> 404 Page Not Found --> nomi
+ERROR - 2023-02-13 15:08:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 15:54:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 16:28:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 16:50:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 16:56:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 19:06:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 19:29:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 20:07:29 --> 404 Page Not Found --> .env
+ERROR - 2023-02-13 20:07:36 --> 404 Page Not Found --> .env.example
+ERROR - 2023-02-13 20:07:44 --> 404 Page Not Found --> blog/.env
+ERROR - 2023-02-13 20:07:51 --> 404 Page Not Found --> api
+ERROR - 2023-02-13 20:07:59 --> 404 Page Not Found --> laravel
+ERROR - 2023-02-13 20:08:06 --> 404 Page Not Found --> docs
+ERROR - 2023-02-13 20:08:14 --> 404 Page Not Found --> _profiler
+ERROR - 2023-02-13 20:57:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 21:22:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-02-13 21:32:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 21:43:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 21:45:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 22:17:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 22:19:51 --> Severity: Warning  --> oci_execute(): ORA-12899: value too large for column &quot;NOMINA&quot;.&quot;CONSUSR&quot;.&quot;CLAVE&quot; (actual: 14, maximum: 12) /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 173
+ERROR - 2023-02-13 22:19:51 --> Query error: 
+ERROR - 2023-02-13 22:19:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-13 22:24:33 --> 404 Page Not Found --> favicon.ico

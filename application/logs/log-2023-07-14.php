@@ -1,0 +1,42 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-14 00:18:39 --> 404 Page Not Found --> style.php
+ERROR - 2023-07-14 04:28:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 08:21:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 08:56:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 09:26:26 --> 404 Page Not Found --> blog/assets
+ERROR - 2023-07-14 09:26:32 --> 404 Page Not Found --> blog/assets
+ERROR - 2023-07-14 09:32:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-07-14 09:32:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 09:33:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 09:44:54 --> 404 Page Not Found --> nomi
+ERROR - 2023-07-14 09:52:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 09:53:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 10:17:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 10:26:42 --> Severity: Warning  --> oci_execute(): ORA-12899: value too large for column &quot;NOMINA&quot;.&quot;CONSUSR&quot;.&quot;CLAVE&quot; (actual: 16, maximum: 12) /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 173
+ERROR - 2023-07-14 10:26:42 --> Query error: 
+ERROR - 2023-07-14 10:34:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 10:40:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 10:41:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 10:52:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 11:04:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 11:10:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-07-14 11:40:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 11:45:29 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-07-14 12:28:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 13:03:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 13:03:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 13:50:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 14:24:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 14:53:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-07-14 15:19:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 15:19:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-07-14 16:12:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 16:26:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 17:08:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 17:52:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 18:13:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 18:20:21 --> 404 Page Not Found --> wp-content
+ERROR - 2023-07-14 19:50:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 19:55:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-14 21:31:13 --> 404 Page Not Found --> favicon.ico

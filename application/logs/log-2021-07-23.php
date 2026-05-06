@@ -1,0 +1,42 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-23 06:40:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 07:10:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 07:48:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 08:29:23 --> 404 Page Not Found --> blog/assets
+ERROR - 2021-07-23 08:29:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 08:38:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 08:51:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 09:08:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 09:18:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 09:26:05 --> 404 Page Not Found --> nomi
+ERROR - 2021-07-23 09:30:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 09:33:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 09:33:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 09:35:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 09:54:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 10:02:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 10:06:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 10:21:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 10:51:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 10:54:04 --> 404 Page Not Found --> nomi
+ERROR - 2021-07-23 10:54:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 11:49:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 11:49:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 12:02:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 12:04:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-07-23 12:14:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 12:18:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 12:39:41 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2021-07-23 12:39:42 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2021-07-23 12:39:42 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2021-07-23 12:39:42 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2021-07-23 12:40:40 --> Severity: Notice  --> Undefined variable: ded_quinc /var/www/nomina/application/models/login_model.php 872
+ERROR - 2021-07-23 12:40:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 13:03:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 13:09:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 13:37:13 --> 404 Page Not Found --> nomi
+ERROR - 2021-07-23 13:41:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 14:12:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-07-23 17:26:29 --> Severity: Warning  --> oci_pconnect(): ORA-12543: TNS:destination host unreachable /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 94
+ERROR - 2021-07-23 17:26:29 --> Unable to connect to the database

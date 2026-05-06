@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-08-25 01:16:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-25 04:19:34 --> 404 Page Not Found --> sitemaps.xml
+ERROR - 2024-08-25 05:16:52 --> 404 Page Not Found --> sitemaps.xml
+ERROR - 2024-08-25 05:19:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-25 07:15:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-25 07:15:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-25 07:16:29 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-25 07:17:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-25 11:22:43 --> 404 Page Not Found --> administrator
+ERROR - 2024-08-25 11:22:44 --> 404 Page Not Found --> administrator
+ERROR - 2024-08-25 11:22:47 --> 404 Page Not Found --> wp-login.php
+ERROR - 2024-08-25 11:22:47 --> 404 Page Not Found --> wp-admin
+ERROR - 2024-08-25 11:22:49 --> 404 Page Not Found --> admin.php
+ERROR - 2024-08-25 11:22:50 --> 404 Page Not Found --> admin
+ERROR - 2024-08-25 11:22:51 --> 404 Page Not Found --> admin
+ERROR - 2024-08-25 11:22:52 --> 404 Page Not Found --> admin
+ERROR - 2024-08-25 11:34:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-25 12:36:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-25 13:57:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-08-25 15:54:01 --> 404 Page Not Found --> nomi
+ERROR - 2024-08-25 19:58:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-25 19:58:34 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2024-08-25 19:58:35 --> 404 Page Not Found --> .well-known
+ERROR - 2024-08-25 22:48:42 --> 404 Page Not Found --> favicon.ico

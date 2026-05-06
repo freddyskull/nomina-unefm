@@ -1,0 +1,22 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-26 01:36:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-11-26 05:17:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-11-26 06:06:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-11-26 07:42:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-11-26 08:20:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 08:48:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 10:07:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 11:16:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 12:27:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 14:05:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-11-26 15:02:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 17:24:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 17:45:40 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2021-11-26 18:33:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 19:50:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 20:06:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 20:56:53 --> 404 Page Not Found --> nomi
+ERROR - 2021-11-26 20:56:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-26 21:21:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-11-26 23:30:59 --> 404 Page Not Found --> xmlrpc.php

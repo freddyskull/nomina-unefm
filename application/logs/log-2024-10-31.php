@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-10-31 08:52:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 08:59:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 09:06:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 09:11:03 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-10-31 09:57:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 10:03:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 10:53:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 11:37:42 --> 404 Page Not Found --> inputs.php
+ERROR - 2024-10-31 11:37:43 --> 404 Page Not Found --> termps.php
+ERROR - 2024-10-31 11:37:45 --> 404 Page Not Found --> thoms.php
+ERROR - 2024-10-31 11:37:49 --> 404 Page Not Found --> userfuns.php
+ERROR - 2024-10-31 11:37:50 --> 404 Page Not Found --> wp-content
+ERROR - 2024-10-31 11:37:51 --> 404 Page Not Found --> wp-includes
+ERROR - 2024-10-31 11:37:52 --> 404 Page Not Found --> wp-admin
+ERROR - 2024-10-31 13:29:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 14:54:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 15:55:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 16:56:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 17:54:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 18:28:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-10-31 20:50:29 --> 404 Page Not Found --> .env
+ERROR - 2024-10-31 20:50:29 --> 404 Page Not Found --> wp-content

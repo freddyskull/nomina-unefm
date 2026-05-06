@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-23 09:32:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-23 09:33:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-07-23 10:21:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-23 11:02:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-23 11:22:20 --> 404 Page Not Found --> nomi
+ERROR - 2023-07-23 11:22:21 --> 404 Page Not Found --> nomi
+ERROR - 2023-07-23 11:24:35 --> 404 Page Not Found --> wordpress
+ERROR - 2023-07-23 14:27:33 --> 404 Page Not Found --> alfa-rex.php
+ERROR - 2023-07-23 16:42:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-23 17:38:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-07-23 18:12:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-23 18:25:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-23 20:04:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-07-23 21:27:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-23 21:31:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-07-23 21:42:03 --> 404 Page Not Found --> wp-content
+ERROR - 2023-07-23 23:51:45 --> 404 Page Not Found --> wp-content
+ERROR - 2023-07-23 23:51:46 --> 404 Page Not Found --> blog/wp-content
+ERROR - 2023-07-23 23:51:48 --> 404 Page Not Found --> wordpress
+ERROR - 2023-07-23 23:51:49 --> 404 Page Not Found --> wp
+ERROR - 2023-07-23 23:51:49 --> 404 Page Not Found --> demo
+ERROR - 2023-07-23 23:51:51 --> 404 Page Not Found --> backup
+ERROR - 2023-07-23 23:51:52 --> 404 Page Not Found --> old

@@ -1,0 +1,27 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-06-23 00:03:41 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-23 00:03:42 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-23 01:17:13 --> 404 Page Not Found --> .env
+ERROR - 2024-06-23 01:17:13 --> 404 Page Not Found --> .env.example
+ERROR - 2024-06-23 01:17:14 --> 404 Page Not Found --> api
+ERROR - 2024-06-23 01:17:14 --> 404 Page Not Found --> laravel
+ERROR - 2024-06-23 01:17:15 --> 404 Page Not Found --> _profiler
+ERROR - 2024-06-23 01:17:15 --> 404 Page Not Found --> .git
+ERROR - 2024-06-23 01:17:16 --> 404 Page Not Found --> config.json
+ERROR - 2024-06-23 04:03:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-23 13:41:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-23 16:10:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-23 16:14:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-23 17:59:34 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-06-23 18:32:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-23 18:35:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-23 19:38:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-23 20:03:46 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-23 20:03:47 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-23 20:03:48 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-23 20:03:53 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-23 20:03:54 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-23 20:07:47 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-06-23 20:47:01 --> 404 Page Not Found --> wp-login.php
+ERROR - 2024-06-23 22:09:48 --> 404 Page Not Found --> .env

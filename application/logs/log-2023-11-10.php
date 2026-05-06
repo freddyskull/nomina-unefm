@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-11-10 06:48:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 07:43:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 08:31:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 08:55:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 09:29:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 09:29:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 09:43:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 09:50:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 10:24:24 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-11-10 11:16:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 11:37:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 13:48:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 13:48:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 15:42:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 16:52:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 18:13:50 --> 404 Page Not Found --> nomi
+ERROR - 2023-11-10 18:13:51 --> 404 Page Not Found --> nomi
+ERROR - 2023-11-10 18:51:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 19:21:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 20:37:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-10 22:52:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-11-10 23:24:44 --> 404 Page Not Found --> .git

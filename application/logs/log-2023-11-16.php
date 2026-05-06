@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-11-16 09:41:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-11-16 09:42:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 09:47:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 09:48:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 09:50:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 09:59:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 09:59:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 10:01:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 10:08:51 --> 404 Page Not Found --> admin
+ERROR - 2023-11-16 11:40:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 11:40:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 12:08:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 13:08:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 16:29:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 16:39:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 19:17:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 19:20:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 20:53:54 --> 404 Page Not Found --> nomi
+ERROR - 2023-11-16 21:30:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 21:40:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-11-16 22:21:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-11-16 22:53:29 --> 404 Page Not Found --> robots.txt

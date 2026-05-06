@@ -1,0 +1,44 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-10 08:50:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 09:09:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 09:09:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 10:09:04 --> Severity: Warning  --> fopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known /var/www/nomina/application/models/pdf/fpdf.php 2092
+ERROR - 2023-05-10 10:09:04 --> Severity: Warning  --> fopen(http://nomina.unefm.edu.ve/source/img/logo.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known /var/www/nomina/application/models/pdf/fpdf.php 2092
+ERROR - 2023-05-10 10:28:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 10:30:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 10:33:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-05-10 10:35:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 10:35:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 10:40:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 10:44:36 --> 404 Page Not Found --> blog.nominas
+ERROR - 2023-05-10 10:44:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 10:53:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 10:53:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 11:05:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 11:09:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-05-10 11:10:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 11:25:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 11:42:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 11:44:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 11:53:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 11:56:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 12:17:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 14:34:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 14:48:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 14:51:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 15:49:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 16:54:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 17:06:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 17:06:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 17:07:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 17:23:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 17:29:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 18:20:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 18:25:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 19:06:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 19:32:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 19:58:14 --> 404 Page Not Found --> wordpress
+ERROR - 2023-05-10 20:10:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-05-10 22:32:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-05-10 23:07:26 --> 404 Page Not Found --> robots.txt

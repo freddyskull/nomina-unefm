@@ -1,0 +1,42 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-03-20 00:03:45 --> Severity: Warning  --> oci_pconnect(): ORA-12543: TNS:destination host unreachable /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 94
+ERROR - 2024-03-20 00:03:45 --> Unable to connect to the database
+ERROR - 2024-03-20 00:03:48 --> Severity: Warning  --> oci_pconnect(): ORA-12543: TNS:destination host unreachable /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 94
+ERROR - 2024-03-20 00:03:48 --> Unable to connect to the database
+ERROR - 2024-03-20 00:03:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 00:22:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 00:29:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 00:48:00 --> 404 Page Not Found --> wordpress
+ERROR - 2024-03-20 01:01:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 05:16:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 06:47:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 07:08:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 07:09:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 07:12:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 07:13:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 07:25:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 07:54:27 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-03-20 07:54:28 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-03-20 09:24:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 09:28:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 09:57:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 10:35:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-03-20 11:04:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 11:19:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 11:19:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 11:28:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 12:03:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 12:10:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 12:11:10 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-03-20 12:12:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 12:22:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 12:32:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 13:28:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 14:18:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 14:24:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 14:47:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 14:55:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 15:18:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 16:51:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-03-20 17:21:04 --> 404 Page Not Found --> favicon.ico

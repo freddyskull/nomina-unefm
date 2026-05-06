@@ -1,0 +1,22 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-11-01 16:07:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-11-01 17:13:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-11-01 17:13:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-11-01 17:13:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-11-01 17:13:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-11-01 17:13:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-11-01 17:14:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-11-01 17:14:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-11-01 17:14:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-11-01 17:14:03 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-11-01 20:53:05 --> 404 Page Not Found --> wp-login.php
+ERROR - 2025-11-01 20:53:05 --> 404 Page Not Found --> wp-admin
+ERROR - 2025-11-01 20:53:05 --> 404 Page Not Found --> login
+ERROR - 2025-11-01 20:53:06 --> 404 Page Not Found --> admin
+ERROR - 2025-11-01 20:53:06 --> 404 Page Not Found --> wp-login
+ERROR - 2025-11-01 20:53:06 --> 404 Page Not Found --> wordpress
+ERROR - 2025-11-01 20:53:06 --> 404 Page Not Found --> blog/wp-login.php
+ERROR - 2025-11-01 20:53:07 --> 404 Page Not Found --> wp
+ERROR - 2025-11-01 20:53:07 --> 404 Page Not Found --> cms
+ERROR - 2025-11-01 21:08:34 --> 404 Page Not Found --> nomi

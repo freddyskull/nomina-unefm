@@ -1,0 +1,27 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-04-25 01:07:21 --> 404 Page Not Found --> .env
+ERROR - 2025-04-25 01:38:16 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-25 03:56:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-25 06:06:52 --> 404 Page Not Found --> wp-content
+ERROR - 2025-04-25 06:08:15 --> 404 Page Not Found --> wp-content
+ERROR - 2025-04-25 07:12:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-25 08:27:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 08:33:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 09:01:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 10:03:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 10:22:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 10:25:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 12:16:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 13:43:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-25 14:24:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-25 15:31:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-25 16:24:36 --> 404 Page Not Found --> .env
+ERROR - 2025-04-25 17:01:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 17:41:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 18:05:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 18:36:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-25 20:19:58 --> 404 Page Not Found --> nomi
+ERROR - 2025-04-25 20:19:59 --> 404 Page Not Found --> nomi
+ERROR - 2025-04-25 22:47:11 --> 404 Page Not Found --> index
+ERROR - 2025-04-25 22:52:51 --> 404 Page Not Found --> robots.txt

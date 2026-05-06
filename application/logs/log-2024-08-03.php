@@ -1,0 +1,39 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-08-03 12:23:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-03 13:05:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-08-03 13:29:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 59
+ERROR - 2024-08-03 13:29:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 301
+ERROR - 2024-08-03 13:29:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-08-03 13:37:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-03 14:40:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-08-03 16:10:34 --> 404 Page Not Found --> nomi
+ERROR - 2024-08-03 16:10:34 --> 404 Page Not Found --> nomi
+ERROR - 2024-08-03 16:10:40 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-08-03 16:10:51 --> 404 Page Not Found --> nomi
+ERROR - 2024-08-03 16:46:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> css
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> css
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> css
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:47:07 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:47:08 --> 404 Page Not Found --> font-awesome
+ERROR - 2024-08-03 16:47:59 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:47:59 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:47:59 --> 404 Page Not Found --> css
+ERROR - 2024-08-03 16:47:59 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:48:00 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:48:00 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:48:00 --> 404 Page Not Found --> css
+ERROR - 2024-08-03 16:48:00 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:48:00 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 16:48:01 --> 404 Page Not Found --> font-awesome
+ERROR - 2024-08-03 16:48:01 --> 404 Page Not Found --> css
+ERROR - 2024-08-03 16:48:01 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-08-03 21:12:49 --> 404 Page Not Found --> nomi

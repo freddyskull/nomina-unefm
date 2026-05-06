@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-19 00:39:53 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-04-19 05:36:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-04-19 06:08:59 --> 404 Page Not Found --> nomi
+ERROR - 2024-04-19 06:09:01 --> 404 Page Not Found --> nomi
+ERROR - 2024-04-19 06:09:08 --> 404 Page Not Found --> nomi
+ERROR - 2024-04-19 06:09:11 --> 404 Page Not Found --> nomi
+ERROR - 2024-04-19 06:09:12 --> 404 Page Not Found --> nomi
+ERROR - 2024-04-19 09:04:25 --> 404 Page Not Found --> nomi
+ERROR - 2024-04-19 09:04:26 --> 404 Page Not Found --> nomi
+ERROR - 2024-04-19 09:47:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-04-19 10:04:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-04-19 12:40:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-04-19 13:21:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-04-19 15:38:31 --> 404 Page Not Found --> wp-login.php
+ERROR - 2024-04-19 18:10:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-04-19 20:04:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-04-19 20:08:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-04-19 20:12:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-04-19 20:16:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-04-19 21:16:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-04-19 21:16:17 --> 404 Page Not Found --> nomi
+ERROR - 2024-04-19 21:47:03 --> 404 Page Not Found --> favicon.ico

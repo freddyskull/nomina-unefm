@@ -1,0 +1,103 @@
+ <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                     <center><h2>Planilla ARC</h2></center> 
+ 
+                        <h5></h5>
+                       
+                    </div>
+                </div>
+                 <!-- /. ROW  -->
+                 <hr />
+<center>UNIVERSIDAD NACIONAL  EXPERIMENTAL<br />
+FRANCISCO DE MIRANDA<br />
+<strong>VICERRECTORADO ADMINISTRATIVO<br />
+DIRECCIÓN DE RECURSOS HUMANOS</strong></span> <br><br></center>
+
+<span> Se Informa al Personal Docente y Administrativo y Obrero activo, adscrito a nuestra Casa de Estudios,  que está disponible para la declaración del impuesto sobre la renta,  la Planilla ARC llenando el siguiente formulario. </span> <br />
+<br />
+<p><span><b>NOTA:</b></span><em> UNA VEZ IMPRESO PASAR POR LA DIRECCIÓN DE  ADMINISTRACIÓN PARA LA FIRMA Y SELLO HUMEDO.</em></p>
+<br />
+<br />
+
+<table width="441" border="1" align="center" bordercolor="#000033">
+  <tr>
+    <td width="435" colspan="3" bgcolor="#B7C6FF"><center><b>Descarga de Planilla ARC<b></center></td>
+  </tr>
+  <tr>
+    <td class="Estilo11 Estilo14">
+  <div align="center">
+    <form id="form1" name="form1" method="post" action="http://saad.unefm.edu.ve/nomi/servlet/ARCRepweb" target="blank">
+  <input  type="hidden" name="us" value="<?php echo $cedula ?>"  class="form-username form-control" id="form-username">
+    <input type="hidden" name="tp" value="<?php echo $tipoper ?>"  class="form-username form-control" id="form-username">
+  <br><label> 
+   <span class="Estilo16">--Seleccione Año--</span><br>
+   <label class="radio-inline">
+   <input type="radio" name="ano" value="2014" required='required'> 2014
+   </label>
+   <label class="radio-inline">
+  <input type="radio" name="ano" value="2015" required='required'> 2015
+  </label>
+  <label class="radio-inline">
+  <input type="radio" name="ano" value="2016" required='required'> 2016
+  </label>
+ <label class="radio-inline">
+  <input type="radio" name="ano" value="2017" required='required'> 2017
+  </label>
+ <label class="radio-inline">
+  <input type="radio" name="ano" value="2018" required='required'> 2018
+  </label>
+
+
+<label class="radio-inline">
+  <input type="radio" name="ano" value="2019" required='required'> 2019
+  </label>
+
+ <label class="radio-inline">
+   <input type="radio" name="ano" value="2020" required='required'> 2020
+   </label>
+
+   <label class="radio-inline">
+   <input type="radio" name="ano" value="2021" required='required'> 2021
+   </label>
+
+   <label class="radio-inline">
+   <input type="radio" name="ano" value="2022" required='required'> 2022
+   </label>
+
+<label class="radio-inline">
+<input type="radio" name="ano" value="2023" required='requiered'>2023
+</label> 
+
+<label class="radio-inline">
+<input type="radio" name="ano" value="2024" required='requiered'>2024
+</label>
+
+<label class="radio-inline">
+<input type="radio" name="ano" value="2025" required='requiered'>2025
+</label>
+
+
+   <br>
+   <br>
+   <br>
+
+   <center>
+  <button type="submit" class="btn btn-primary"><b>Descargar planilla</b></button>
+</center>
+  </label>
+</form>
+</div>
+</td>
+</tr>
+</table>
+
+
+    </div>
+             <!-- /. PAGE INNER  -->
+            </div>
+         <!-- /. PAGE WRAPPER  -->
+        </div>
+           
+    </div>

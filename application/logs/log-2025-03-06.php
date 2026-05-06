@@ -1,0 +1,35 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-03-06 01:59:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-03-06 06:29:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 06:37:12 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 71
+ERROR - 2025-03-06 06:37:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 06:45:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 07:34:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-03-06 07:53:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 08:22:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 09:11:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 09:33:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 09:45:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 10:54:48 --> 404 Page Not Found --> .env
+ERROR - 2025-03-06 10:55:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 11:06:45 --> 404 Page Not Found --> .env
+ERROR - 2025-03-06 11:06:47 --> 404 Page Not Found --> vendor
+ERROR - 2025-03-06 11:49:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 12:06:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 12:06:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 12:24:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 12:25:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 12:25:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 12:33:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 12:41:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 13:31:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-06 13:35:11 --> 404 Page Not Found --> nomi
+ERROR - 2025-03-06 13:35:11 --> 404 Page Not Found --> nomi
+ERROR - 2025-03-06 13:37:02 --> 404 Page Not Found --> public_html.zip
+ERROR - 2025-03-06 13:37:02 --> 404 Page Not Found --> wordpress.zip
+ERROR - 2025-03-06 13:43:59 --> 404 Page Not Found --> wp-login.php
+ERROR - 2025-03-06 13:44:06 --> 404 Page Not Found --> wp-admin
+ERROR - 2025-03-06 14:43:11 --> 404 Page Not Found --> archive.zip
+ERROR - 2025-03-06 14:43:12 --> 404 Page Not Found --> Backup.zip
+ERROR - 2025-03-06 15:06:36 --> 404 Page Not Found --> robots.txt

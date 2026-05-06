@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-31 03:30:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-31 07:42:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 08:49:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 08:49:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 09:32:33 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-31 09:35:31 --> 404 Page Not Found --> wp-login.php
+ERROR - 2023-10-31 10:08:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 10:11:17 --> 404 Page Not Found --> wp-content
+ERROR - 2023-10-31 10:19:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-31 10:21:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 10:35:08 --> 404 Page Not Found --> nomi
+ERROR - 2023-10-31 11:04:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 11:33:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 12:45:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 13:00:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 13:45:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 14:48:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 15:04:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 15:35:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 15:42:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-31 18:58:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 19:29:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-31 20:45:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-31 21:32:43 --> 404 Page Not Found --> robots.txt

@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-06-13 02:31:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-13 04:08:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-13 06:45:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-13 09:15:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 09:16:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-13 09:17:00 --> 404 Page Not Found --> ads.txt
+ERROR - 2024-06-13 09:29:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 11:01:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 11:31:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 12:31:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 13:02:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-13 13:57:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 14:57:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 15:01:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 15:32:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 15:57:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 16:42:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 16:54:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 19:25:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-13 19:55:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-13 20:40:29 --> 404 Page Not Found --> favicon.ico

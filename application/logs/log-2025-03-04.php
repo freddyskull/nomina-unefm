@@ -1,0 +1,19 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-03-04 00:20:52 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2025-03-04 09:03:11 --> 404 Page Not Found --> .env
+ERROR - 2025-03-04 09:35:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-04 09:49:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-04 09:57:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-03-04 11:12:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-04 11:32:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-03-04 16:25:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-03-04 16:48:31 --> 404 Page Not Found --> .env
+ERROR - 2025-03-04 16:48:31 --> 404 Page Not Found --> .env
+ERROR - 2025-03-04 16:48:32 --> 404 Page Not Found --> vendor
+ERROR - 2025-03-04 16:48:32 --> 404 Page Not Found --> vendor
+ERROR - 2025-03-04 19:03:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-03-04 19:06:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-03-04 19:54:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-03-04 19:54:14 --> 404 Page Not Found --> nomi
+ERROR - 2025-03-04 23:35:46 --> 404 Page Not Found --> robots.txt

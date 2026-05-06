@@ -1,0 +1,27 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-09-17 03:41:07 --> 404 Page Not Found --> blog/xmlrpc.php
+ERROR - 2023-09-17 03:41:08 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2023-09-17 04:58:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-17 05:31:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-17 08:05:48 --> 404 Page Not Found --> app-ads.txt
+ERROR - 2023-09-17 08:05:48 --> 404 Page Not Found --> ads.txt
+ERROR - 2023-09-17 08:05:48 --> 404 Page Not Found --> sellers.json
+ERROR - 2023-09-17 08:05:49 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-17 08:05:49 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-17 08:05:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-17 08:05:53 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-17 08:05:53 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-17 08:05:53 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-17 08:05:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-17 08:05:53 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-17 08:05:53 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-17 08:05:53 --> 404 Page Not Found --> .well-known
+ERROR - 2023-09-17 08:06:24 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-17 09:30:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-17 12:03:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-17 12:21:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-17 14:52:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-17 16:11:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-17 19:38:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-17 21:31:29 --> 404 Page Not Found --> favicon.ico

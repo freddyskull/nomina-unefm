@@ -1,0 +1,47 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-09-05 10:32:49 --> Severity: Warning  --> oci_pconnect(): ORA-12543: TNS:destination host unreachable /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 94
+ERROR - 2025-09-05 10:32:49 --> Unable to connect to the database
+ERROR - 2025-09-05 10:32:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-09-05 10:32:57 --> Severity: Warning  --> oci_pconnect(): ORA-12543: TNS:destination host unreachable /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 94
+ERROR - 2025-09-05 10:32:57 --> Unable to connect to the database
+ERROR - 2025-09-05 12:22:51 --> 404 Page Not Found --> wp-includes
+ERROR - 2025-09-05 12:22:52 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2025-09-05 12:22:52 --> 404 Page Not Found --> blog/wp-includes
+ERROR - 2025-09-05 12:22:53 --> 404 Page Not Found --> web
+ERROR - 2025-09-05 12:22:53 --> 404 Page Not Found --> wordpress
+ERROR - 2025-09-05 12:22:53 --> 404 Page Not Found --> website
+ERROR - 2025-09-05 12:22:54 --> 404 Page Not Found --> wp
+ERROR - 2025-09-05 12:22:54 --> 404 Page Not Found --> news
+ERROR - 2025-09-05 12:22:54 --> 404 Page Not Found --> 2020
+ERROR - 2025-09-05 12:22:55 --> 404 Page Not Found --> 2019
+ERROR - 2025-09-05 12:22:55 --> 404 Page Not Found --> shop
+ERROR - 2025-09-05 12:22:55 --> 404 Page Not Found --> wp1
+ERROR - 2025-09-05 12:22:56 --> 404 Page Not Found --> test
+ERROR - 2025-09-05 12:22:56 --> 404 Page Not Found --> wp2
+ERROR - 2025-09-05 12:22:56 --> 404 Page Not Found --> site
+ERROR - 2025-09-05 12:22:57 --> 404 Page Not Found --> cms
+ERROR - 2025-09-05 12:22:57 --> 404 Page Not Found --> sito
+ERROR - 2025-09-05 12:24:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-09-05 12:43:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-09-05 13:08:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-09-05 13:10:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-09-05 15:52:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-09-05 16:29:11 --> 404 Page Not Found --> nomi
+ERROR - 2025-09-05 16:29:11 --> 404 Page Not Found --> nomi
+ERROR - 2025-09-05 18:28:22 --> 404 Page Not Found --> blog/assets
+ERROR - 2025-09-05 19:17:24 --> 404 Page Not Found --> :iris
+ERROR - 2025-09-05 19:17:25 --> 404 Page Not Found --> :iris
+ERROR - 2025-09-05 19:17:26 --> 404 Page Not Found --> :iris
+ERROR - 2025-09-05 19:17:27 --> 404 Page Not Found --> :iris
+ERROR - 2025-09-05 19:17:28 --> 404 Page Not Found --> :iris
+ERROR - 2025-09-05 19:26:05 --> 404 Page Not Found --> wp-admin
+ERROR - 2025-09-05 22:00:57 --> 404 Page Not Found --> laravel-filemanager
+ERROR - 2025-09-05 22:00:57 --> 404 Page Not Found --> laravel-filemanager
+ERROR - 2025-09-05 22:00:58 --> 404 Page Not Found --> filemanager
+ERROR - 2025-09-05 22:00:58 --> 404 Page Not Found --> filemanager
+ERROR - 2025-09-05 22:00:58 --> 404 Page Not Found --> DOMAIN-INI-HAPUS-SAJA-GA-VULN
+ERROR - 2025-09-05 22:00:59 --> 404 Page Not Found --> DOMAIN-INI-HAPUS-SAJA-GA-VULN
+ERROR - 2025-09-05 22:13:48 --> 404 Page Not Found --> vendor
+ERROR - 2025-09-05 22:26:03 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-09-05 22:32:19 --> 404 Page Not Found --> nomi

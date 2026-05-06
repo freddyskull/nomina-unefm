@@ -1,0 +1,61 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-11-29 01:08:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 01:17:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-29 02:29:56 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-11-29 03:01:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 03:38:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-29 04:27:35 --> 404 Page Not Found --> .git
+ERROR - 2024-11-29 04:32:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 06:59:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 07:51:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 08:24:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 08:28:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 08:44:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 10:16:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 10:16:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 10:18:32 --> 404 Page Not Found --> .env
+ERROR - 2024-11-29 10:18:33 --> 404 Page Not Found --> .env
+ERROR - 2024-11-29 10:18:33 --> 404 Page Not Found --> vendor
+ERROR - 2024-11-29 10:44:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 11:34:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 11:36:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 11:40:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 12:31:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 12:38:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 12:42:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 12:51:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 12:53:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 13:14:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 13:19:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 13:28:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 13:29:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 13:32:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 13:39:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 14:11:18 --> 404 Page Not Found --> .env
+ERROR - 2024-11-29 14:16:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-29 14:17:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 14:26:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 14:31:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 14:39:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 14:41:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 15:42:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 15:53:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 16:14:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 16:15:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 16:15:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 17:10:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 17:33:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 17:58:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 17:58:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 18:42:16 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-11-29 19:47:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 19:53:06 --> Severity: Warning  --> oci_execute(): ORA-12899: value too large for column &quot;NOMINA&quot;.&quot;CONSUSR&quot;.&quot;CLAVE&quot; (actual: 14, maximum: 12) /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 173
+ERROR - 2024-11-29 19:53:06 --> Query error: 
+ERROR - 2024-11-29 19:53:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-29 19:53:41 --> Severity: Warning  --> oci_execute(): ORA-12899: value too large for column &quot;NOMINA&quot;.&quot;CONSUSR&quot;.&quot;CLAVE&quot; (actual: 14, maximum: 12) /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 173
+ERROR - 2024-11-29 19:53:41 --> Query error: 
+ERROR - 2024-11-29 21:00:36 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2024-11-29 21:22:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-29 22:23:16 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-29 23:51:34 --> 404 Page Not Found --> favicon.ico

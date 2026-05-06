@@ -1,0 +1,51 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-09-25 08:02:10 --> Severity: Warning  --> oci_pconnect(): ORA-12543: TNS:destination host unreachable /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 94
+ERROR - 2023-09-25 08:02:10 --> Unable to connect to the database
+ERROR - 2023-09-25 08:02:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 08:31:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 09:11:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 09:14:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 09:14:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 09:22:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 09:23:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 09:32:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-25 09:33:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 09:47:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 09:49:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 10:03:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 10:06:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 10:11:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 10:25:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 10:26:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 10:32:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 10:36:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 10:59:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 11:14:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 11:28:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 13:07:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 13:24:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 13:24:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 13:29:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 13:37:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 13:53:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 15:21:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 15:27:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 16:06:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 17:10:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 17:10:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 17:17:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 17:20:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 17:20:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 17:21:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 17:22:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 17:30:06 --> 404 Page Not Found --> wordpress
+ERROR - 2023-09-25 19:15:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-09-25 19:42:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 19:46:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 19:47:53 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 59
+ERROR - 2023-09-25 19:47:53 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 133
+ERROR - 2023-09-25 19:47:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 21:32:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 21:53:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-25 23:29:29 --> 404 Page Not Found --> robots.txt

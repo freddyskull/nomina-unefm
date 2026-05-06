@@ -1,0 +1,21 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-11-12 00:31:49 --> 404 Page Not Found --> nomi
+ERROR - 2022-11-12 03:26:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-11-12 08:02:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 09:17:31 --> 404 Page Not Found --> nomi
+ERROR - 2022-11-12 09:22:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 09:54:57 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2022-11-12 10:25:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 10:56:46 --> 404 Page Not Found --> nomi
+ERROR - 2022-11-12 12:59:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 14:29:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 15:23:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 15:30:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 17:07:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 17:50:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 18:56:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 19:17:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 20:12:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-11-12 20:32:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-11-12 22:00:48 --> 404 Page Not Found --> favicon.ico

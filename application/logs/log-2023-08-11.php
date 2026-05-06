@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-11 00:16:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-11 00:16:01 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2023-08-11 00:16:01 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2023-08-11 00:16:01 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2023-08-11 00:16:02 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2023-08-11 04:58:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-11 07:19:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-11 07:30:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-11 09:44:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-11 09:48:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-11 10:38:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-11 10:44:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-11 13:10:03 --> 404 Page Not Found --> wordpress
+ERROR - 2023-08-11 13:25:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-11 15:38:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-08-11 15:49:41 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2023-08-11 17:54:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-11 18:51:36 --> 404 Page Not Found --> .env
+ERROR - 2023-08-11 18:51:37 --> 404 Page Not Found --> vendor
+ERROR - 2023-08-11 19:53:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-08-11 21:47:59 --> 404 Page Not Found --> .env
+ERROR - 2023-08-11 21:48:00 --> 404 Page Not Found --> vendor

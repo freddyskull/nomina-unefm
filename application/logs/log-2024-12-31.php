@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-12-31 11:21:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-31 20:50:39 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2024-12-31 20:50:39 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2024-12-31 20:50:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-12-31 21:33:19 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:33:19 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:34:28 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:34:28 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:35:37 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:35:38 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:36:50 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:36:50 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:39:12 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:39:12 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:40:02 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:40:02 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:40:56 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:40:56 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:41:23 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:41:23 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:41:50 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 21:41:50 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-31 23:44:22 --> 404 Page Not Found --> robots.txt

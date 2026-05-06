@@ -1,0 +1,27 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-08 06:54:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-08-08 08:20:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-08-08 09:01:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-08-08 09:43:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-08-08 10:46:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-08-08 14:45:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-08-08 14:48:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-08-08 16:49:54 --> 404 Page Not Found --> wp-admin
+ERROR - 2021-08-08 16:49:54 --> 404 Page Not Found --> wp
+ERROR - 2021-08-08 16:49:55 --> 404 Page Not Found --> new
+ERROR - 2021-08-08 16:49:56 --> 404 Page Not Found --> old
+ERROR - 2021-08-08 16:49:57 --> 404 Page Not Found --> wordpress
+ERROR - 2021-08-08 16:49:58 --> 404 Page Not Found --> test
+ERROR - 2021-08-08 16:50:08 --> 404 Page Not Found --> blog/wp-admin
+ERROR - 2021-08-08 16:50:08 --> 404 Page Not Found --> cms
+ERROR - 2021-08-08 16:50:09 --> 404 Page Not Found --> web
+ERROR - 2021-08-08 16:50:13 --> 404 Page Not Found --> backup
+ERROR - 2021-08-08 16:50:13 --> 404 Page Not Found --> site
+ERROR - 2021-08-08 16:50:14 --> 404 Page Not Found --> oldsite
+ERROR - 2021-08-08 18:05:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-08-08 20:21:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-08-08 22:09:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-08-08 22:28:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-08-08 22:49:05 --> 404 Page Not Found --> dist
+ERROR - 2021-08-08 23:35:54 --> 404 Page Not Found --> robots.txt

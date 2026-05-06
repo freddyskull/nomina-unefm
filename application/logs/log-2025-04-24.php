@@ -1,0 +1,45 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-04-24 00:53:25 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-24 01:52:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 01:54:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-24 05:22:47 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2025-04-24 05:32:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 06:08:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-24 06:44:48 --> 404 Page Not Found --> ads.txt
+ERROR - 2025-04-24 08:29:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 08:33:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 08:40:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 09:08:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 09:13:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 09:20:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 09:24:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-24 09:45:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 09:49:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 09:53:17 --> 404 Page Not Found --> wp-config.php.backup
+ERROR - 2025-04-24 09:55:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 10:19:49 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2025-04-24 10:28:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 10:35:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 10:42:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 10:55:44 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2025-04-24 10:56:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 11:17:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 11:31:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 11:48:31 --> 404 Page Not Found --> blog/assets
+ERROR - 2025-04-24 11:57:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 11:59:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 12:01:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 12:37:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 13:14:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-24 13:27:39 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2025-04-24 14:31:51 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 71
+ERROR - 2025-04-24 14:31:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 14:32:10 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 71
+ERROR - 2025-04-24 15:23:07 --> 404 Page Not Found --> wp-config.backup
+ERROR - 2025-04-24 17:36:38 --> 404 Page Not Found --> .env
+ERROR - 2025-04-24 18:45:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 18:46:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-24 21:01:20 --> 404 Page Not Found --> .git
+ERROR - 2025-04-24 21:47:15 --> 404 Page Not Found --> blog/assets
+ERROR - 2025-04-24 21:51:50 --> 404 Page Not Found --> favicon.ico

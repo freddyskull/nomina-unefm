@@ -1,0 +1,39 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-02-15 08:51:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 08:51:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 08:55:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 09:11:45 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 71
+ERROR - 2023-02-15 09:11:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 09:35:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 09:35:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 09:51:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 09:52:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 09:54:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 10:43:48 --> Severity: Warning  --> Invalid argument supplied for foreach() /var/www/nomina/application/models/pdf/constanciapdf.php 71
+ERROR - 2023-02-15 11:29:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 11:39:03 --> 404 Page Not Found --> blog/assets
+ERROR - 2023-02-15 11:43:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 11:53:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 11:54:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 12:01:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 12:18:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 12:22:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-02-15 12:23:14 --> 404 Page Not Found --> sitemap_index.xml
+ERROR - 2023-02-15 12:26:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 12:30:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 13:11:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 15:33:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-02-15 17:19:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 17:45:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 17:48:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 17:59:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 18:07:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 18:28:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-02-15 18:34:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 19:10:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-15 20:38:01 --> 404 Page Not Found --> wp-admin
+ERROR - 2023-02-15 20:38:04 --> 404 Page Not Found --> wp
+ERROR - 2023-02-15 20:38:06 --> 404 Page Not Found --> wordpress
+ERROR - 2023-02-15 20:38:08 --> 404 Page Not Found --> site
+ERROR - 2023-02-15 20:38:13 --> 404 Page Not Found --> blog/wp-admin

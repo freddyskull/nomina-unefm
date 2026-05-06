@@ -1,0 +1,19 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-14 04:46:12 --> 404 Page Not Found --> admin
+ERROR - 2023-10-14 04:46:26 --> 404 Page Not Found --> admin
+ERROR - 2023-10-14 04:46:29 --> 404 Page Not Found --> admin
+ERROR - 2023-10-14 04:46:32 --> 404 Page Not Found --> admin
+ERROR - 2023-10-14 04:46:40 --> 404 Page Not Found --> admin
+ERROR - 2023-10-14 04:46:44 --> 404 Page Not Found --> admin
+ERROR - 2023-10-14 04:46:46 --> 404 Page Not Found --> asset
+ERROR - 2023-10-14 04:46:48 --> 404 Page Not Found --> asset
+ERROR - 2023-10-14 04:46:57 --> 404 Page Not Found --> asset
+ERROR - 2023-10-14 04:47:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-14 04:47:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-14 04:47:29 --> 404 Page Not Found --> cp
+ERROR - 2023-10-14 04:47:55 --> 404 Page Not Found --> uploads
+ERROR - 2023-10-14 08:43:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-14 09:32:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-14 10:45:57 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2023-10-14 13:35:11 --> 404 Page Not Found --> favicon.ico

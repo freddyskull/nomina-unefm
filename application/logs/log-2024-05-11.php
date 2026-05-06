@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-05-11 05:35:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-05-11 09:32:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 09:48:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 09:49:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 10:17:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 15:02:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 17:55:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 17:59:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-05-11 18:44:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 19:11:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-05-11 19:15:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 19:30:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 19:54:22 --> 404 Page Not Found --> nomi
+ERROR - 2024-05-11 19:54:23 --> 404 Page Not Found --> nomi
+ERROR - 2024-05-11 19:58:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 19:58:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 21:31:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-05-11 21:56:09 --> 404 Page Not Found --> favicon.ico

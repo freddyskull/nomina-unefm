@@ -1,0 +1,21 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-04-15 00:52:11 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2025-04-15 05:44:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-15 10:07:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-15 10:07:16 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2025-04-15 10:07:16 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2025-04-15 13:17:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-15 15:19:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-15 15:19:24 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2025-04-15 15:19:28 --> 404 Page Not Found --> config.json
+ERROR - 2025-04-15 16:06:15 --> 404 Page Not Found --> nomi
+ERROR - 2025-04-15 16:06:16 --> 404 Page Not Found --> nomi
+ERROR - 2025-04-15 16:32:01 --> 404 Page Not Found --> blog/nomina
+ERROR - 2025-04-15 16:32:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-15 16:37:21 --> 404 Page Not Found --> blog/nomina
+ERROR - 2025-04-15 16:37:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-04-15 17:55:03 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-15 20:04:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-04-15 20:04:25 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2025-04-15 20:04:29 --> 404 Page Not Found --> config.json

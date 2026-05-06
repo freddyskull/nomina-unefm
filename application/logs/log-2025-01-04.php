@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-01-04 03:28:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-01-04 05:56:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-01-04 05:57:04 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2025-01-04 06:37:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-01-04 06:52:45 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2025-01-04 08:52:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-01-04 12:39:34 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2025-01-04 12:39:34 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2025-01-04 12:39:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-01-04 12:39:35 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2025-01-04 12:39:35 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2025-01-04 12:39:35 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2025-01-04 12:39:35 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2025-01-04 14:00:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-01-04 14:10:14 --> 404 Page Not Found --> .git
+ERROR - 2025-01-04 14:43:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-01-04 14:43:48 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2025-01-04 14:43:48 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2025-01-04 15:10:39 --> 404 Page Not Found --> nomi
+ERROR - 2025-01-04 15:10:40 --> 404 Page Not Found --> nomi
+ERROR - 2025-01-04 19:32:21 --> 404 Page Not Found --> nomina.unefm.edu.ve.zip
+ERROR - 2025-01-04 21:32:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-01-04 21:32:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-01-04 23:49:33 --> 404 Page Not Found --> favicon.ico

@@ -1,0 +1,27 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-06-28 01:17:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-28 03:19:10 --> 404 Page Not Found --> wordpress
+ERROR - 2024-06-28 04:00:59 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2024-06-28 04:56:23 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2024-06-28 09:44:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 09:46:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 10:15:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-28 10:20:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-28 10:40:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 10:59:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-28 10:59:38 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-28 11:13:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 12:13:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 12:27:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 13:01:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 14:35:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 14:36:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-28 15:49:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-28 15:49:55 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-28 16:28:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 19:33:30 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-28 20:10:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 20:23:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-28 22:00:54 --> 404 Page Not Found --> wp-login.php
+ERROR - 2024-06-28 22:08:56 --> 404 Page Not Found --> favicon.ico

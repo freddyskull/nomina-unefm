@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-06-24 02:17:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-24 04:34:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-24 05:27:26 --> 404 Page Not Found --> nomi
+ERROR - 2024-06-24 06:33:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-24 10:07:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-24 11:35:07 --> 404 Page Not Found --> .env
+ERROR - 2024-06-24 11:35:08 --> 404 Page Not Found --> .env.example
+ERROR - 2024-06-24 11:35:08 --> 404 Page Not Found --> api
+ERROR - 2024-06-24 11:35:09 --> 404 Page Not Found --> laravel
+ERROR - 2024-06-24 11:35:09 --> 404 Page Not Found --> _profiler
+ERROR - 2024-06-24 11:55:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-24 11:59:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-24 13:09:09 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-24 15:29:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-24 16:20:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-24 17:11:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-24 19:03:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-06-24 19:09:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-24 19:41:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-06-24 21:04:29 --> 404 Page Not Found --> wp-admin
+ERROR - 2024-06-24 21:19:42 --> 404 Page Not Found --> favicon.ico

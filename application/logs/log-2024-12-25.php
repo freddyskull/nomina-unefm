@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-12-25 04:50:15 --> 404 Page Not Found --> style.php
+ERROR - 2024-12-25 06:25:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-25 06:25:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-25 08:13:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-25 09:05:53 --> 404 Page Not Found --> .env
+ERROR - 2024-12-25 09:28:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-12-25 09:49:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-12-25 10:07:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-12-25 10:33:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-12-25 11:01:19 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-25 11:02:08 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-25 11:02:56 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-25 11:02:56 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-25 11:03:25 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-25 11:03:25 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-25 11:04:20 --> 404 Page Not Found --> nomina.unefm.edu.ve
+ERROR - 2024-12-25 13:31:54 --> 404 Page Not Found --> .env
+ERROR - 2024-12-25 13:31:55 --> 404 Page Not Found --> .env
+ERROR - 2024-12-25 13:31:56 --> 404 Page Not Found --> vendor
+ERROR - 2024-12-25 13:44:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-12-25 14:19:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-12-25 23:28:51 --> 404 Page Not Found --> robots.txt

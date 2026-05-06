@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-11-09 03:04:06 --> 404 Page Not Found --> administrator
+ERROR - 2024-11-09 03:04:37 --> 404 Page Not Found --> user
+ERROR - 2024-11-09 05:05:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-09 06:07:40 --> 404 Page Not Found --> administrator
+ERROR - 2024-11-09 06:08:08 --> 404 Page Not Found --> user
+ERROR - 2024-11-09 06:19:06 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2024-11-09 07:36:43 --> 404 Page Not Found --> administrator
+ERROR - 2024-11-09 07:37:12 --> 404 Page Not Found --> user
+ERROR - 2024-11-09 09:00:03 --> 404 Page Not Found --> wp-includes
+ERROR - 2024-11-09 10:34:23 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-11-09 10:34:24 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-11-09 10:34:25 --> 404 Page Not Found --> blog/assets
+ERROR - 2024-11-09 10:47:40 --> 404 Page Not Found --> wp-login.php
+ERROR - 2024-11-09 11:15:32 --> 404 Page Not Found --> administrator
+ERROR - 2024-11-09 11:15:42 --> 404 Page Not Found --> user
+ERROR - 2024-11-09 11:21:57 --> 404 Page Not Found --> administrator
+ERROR - 2024-11-09 11:22:08 --> 404 Page Not Found --> user
+ERROR - 2024-11-09 12:38:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-09 14:58:31 --> 404 Page Not Found --> about.php
+ERROR - 2024-11-09 17:36:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-09 17:38:30 --> 404 Page Not Found --> wp-login.php
+ERROR - 2024-11-09 20:12:26 --> 404 Page Not Found --> nomi
+ERROR - 2024-11-09 20:48:12 --> 404 Page Not Found --> administrator
+ERROR - 2024-11-09 23:41:44 --> 404 Page Not Found --> wp-content

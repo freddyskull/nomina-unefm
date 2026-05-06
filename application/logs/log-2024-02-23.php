@@ -1,0 +1,44 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-23 05:12:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 07:34:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-02-23 08:54:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 08:57:13 --> 404 Page Not Found --> nomi
+ERROR - 2024-02-23 08:57:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 09:21:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 09:21:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 09:22:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 09:23:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 09:24:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 09:25:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 09:31:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 09:35:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 09:35:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 09:37:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 10:02:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 10:04:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 10:05:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 10:53:11 --> 404 Page Not Found --> nomi
+ERROR - 2024-02-23 10:53:12 --> 404 Page Not Found --> nomi
+ERROR - 2024-02-23 11:04:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 11:34:16 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-02-23 11:40:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 11:44:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 11:47:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 11:59:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 12:12:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 12:23:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 12:27:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 12:51:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 13:13:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 14:11:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-02-23 14:13:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 14:59:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 15:34:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 16:56:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 17:06:31 --> Severity: Warning  --> oci_execute(): ORA-12899: value too large for column &quot;NOMINA&quot;.&quot;CONSUSR&quot;.&quot;CLAVE&quot; (actual: 13, maximum: 12) /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 173
+ERROR - 2024-02-23 17:06:31 --> Query error: 
+ERROR - 2024-02-23 17:06:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 20:20:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-02-23 21:32:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-02-23 21:34:23 --> 404 Page Not Found --> favicon.ico

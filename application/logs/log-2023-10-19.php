@@ -1,0 +1,29 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-19 07:21:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 07:29:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 07:35:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 08:29:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 08:32:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 08:44:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 09:43:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 10:25:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 10:25:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 10:26:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 11:07:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 11:10:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 12:39:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 12:39:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 12:41:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 13:00:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-19 13:09:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 13:17:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 16:45:39 --> Severity: Warning  --> oci_pconnect(): ORA-12514: TNS:listener does not currently know of service requested in connect descriptor /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 94
+ERROR - 2023-10-19 16:45:39 --> Unable to connect to the database
+ERROR - 2023-10-19 17:38:22 --> 404 Page Not Found --> wp-content
+ERROR - 2023-10-19 18:11:51 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-19 18:17:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 20:11:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 21:19:48 --> 404 Page Not Found --> wordpress
+ERROR - 2023-10-19 22:53:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-19 23:00:04 --> 404 Page Not Found --> robots.txt

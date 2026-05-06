@@ -1,0 +1,21 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-06-02 00:59:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-06-02 02:33:39 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2023-06-02 05:16:18 --> 404 Page Not Found --> blog/assets
+ERROR - 2023-06-02 08:43:28 --> 404 Page Not Found --> nomi
+ERROR - 2023-06-02 08:43:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-02 08:43:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-02 09:07:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-02 09:31:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-02 09:41:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-02 10:47:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-02 13:51:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-02 14:32:19 --> 404 Page Not Found --> nomi
+ERROR - 2023-06-02 15:53:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-06-02 15:53:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-06-02 16:14:13 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-06-02 20:46:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-02 20:49:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-06-02 21:41:29 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-06-02 22:59:36 --> 404 Page Not Found --> robots.txt

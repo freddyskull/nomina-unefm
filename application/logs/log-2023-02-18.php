@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-02-18 01:39:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 02:35:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-02-18 06:29:25 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-02-18 06:29:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 07:37:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 08:08:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 09:30:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 10:08:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 10:28:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 10:28:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 10:31:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 10:56:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-02-18 11:32:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 11:33:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-02-18 12:24:04 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2023-02-18 14:22:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 17:34:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 18:53:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 20:44:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-02-18 21:41:31 --> 404 Page Not Found --> wp-content
+ERROR - 2023-02-18 22:20:35 --> 404 Page Not Found --> favicon.ico

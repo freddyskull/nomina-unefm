@@ -1,0 +1,19 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-11-08 00:18:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-08 08:30:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-08 09:15:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-08 10:14:03 --> 404 Page Not Found --> wp-includes
+ERROR - 2024-11-08 11:29:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-08 12:17:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-08 12:23:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-08 12:29:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2024-11-08 13:19:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-08 14:16:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-08 15:06:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-08 15:14:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-08 15:39:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-08 15:43:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-08 16:12:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-11-08 18:33:36 --> 404 Page Not Found --> administrator
+ERROR - 2024-11-08 18:34:03 --> 404 Page Not Found --> user

@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-10-25 02:59:15 --> 404 Page Not Found --> wp-login.php
+ERROR - 2025-10-25 02:59:15 --> 404 Page Not Found --> wp-admin
+ERROR - 2025-10-25 02:59:16 --> 404 Page Not Found --> wp-login.php
+ERROR - 2025-10-25 02:59:17 --> 404 Page Not Found --> wp-admin
+ERROR - 2025-10-25 02:59:17 --> 404 Page Not Found --> wp-login.php
+ERROR - 2025-10-25 02:59:17 --> 404 Page Not Found --> wp-admin
+ERROR - 2025-10-25 02:59:17 --> 404 Page Not Found --> wp-login.php
+ERROR - 2025-10-25 02:59:18 --> 404 Page Not Found --> wp-admin
+ERROR - 2025-10-25 03:21:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-10-25 04:12:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-10-25 11:19:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-10-25 11:25:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-10-25 11:55:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-10-25 15:36:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-10-25 15:46:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-10-25 16:24:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-10-25 16:34:01 --> 404 Page Not Found --> wp-content
+ERROR - 2025-10-25 16:36:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-10-25 20:52:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-10-25 21:29:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-10-25 22:43:13 --> 404 Page Not Found --> robots.txt

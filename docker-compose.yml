@@ -1,0 +1,18 @@
+
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nomina-freddy-app
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/var/www/html
+    environment:
+      - TZ=America/Caracas
+    restart: always
+
+# Nota: No incluimos una base de datos local porque el sistema 
+# está configurado para conectarse a una DB Oracle externa (150.187.4.18)

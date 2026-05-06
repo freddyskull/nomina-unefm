@@ -1,0 +1,67 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-06-30 08:52:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 10:25:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 10:33:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 10:46:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-06-30 10:50:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 11:12:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 11:55:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 12:02:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 13:17:03 --> Severity: Warning  --> oci_execute(): ORA-12899: value too large for column &quot;NOMINA&quot;.&quot;CONSUSR&quot;.&quot;CLAVE&quot; (actual: 14, maximum: 12) /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 173
+ERROR - 2025-06-30 13:17:03 --> Query error: 
+ERROR - 2025-06-30 13:17:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 13:18:54 --> Severity: Warning  --> oci_execute(): ORA-12899: value too large for column &quot;NOMINA&quot;.&quot;CONSUSR&quot;.&quot;CLAVE&quot; (actual: 13, maximum: 12) /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 173
+ERROR - 2025-06-30 13:18:54 --> Query error: 
+ERROR - 2025-06-30 13:18:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 13:19:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 14:31:47 --> 404 Page Not Found --> nomi
+ERROR - 2025-06-30 14:31:47 --> 404 Page Not Found --> nomi
+ERROR - 2025-06-30 15:16:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 15:19:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-06-30 15:41:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 16:24:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-06-30 16:40:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 17:49:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 19:24:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 20:45:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-06-30 21:17:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 22:13:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-06-30 22:24:59 --> 404 Page Not Found --> bk
+ERROR - 2025-06-30 22:25:05 --> 404 Page Not Found --> home
+ERROR - 2025-06-30 22:25:08 --> 404 Page Not Found --> wp
+ERROR - 2025-06-30 22:25:14 --> 404 Page Not Found --> cms
+ERROR - 2025-06-30 22:25:18 --> 404 Page Not Found --> wordpress
+ERROR - 2025-06-30 22:25:30 --> 404 Page Not Found --> backup-core
+ERROR - 2025-06-30 22:27:39 --> 404 Page Not Found --> username
+ERROR - 2025-06-30 22:29:47 --> 404 Page Not Found --> wp1
+ERROR - 2025-06-30 22:29:53 --> 404 Page Not Found --> old1
+ERROR - 2025-06-30 22:30:06 --> 404 Page Not Found --> old_files
+ERROR - 2025-06-30 22:30:19 --> 404 Page Not Found --> 123
+ERROR - 2025-06-30 22:30:32 --> 404 Page Not Found --> oldwebsite
+ERROR - 2025-06-30 22:34:47 --> 404 Page Not Found --> WP
+ERROR - 2025-06-30 22:35:03 --> 404 Page Not Found --> WordPress
+ERROR - 2025-06-30 22:35:19 --> 404 Page Not Found --> WORDPRESS
+ERROR - 2025-06-30 22:35:34 --> 404 Page Not Found --> up
+ERROR - 2025-06-30 22:40:02 --> 404 Page Not Found --> new
+ERROR - 2025-06-30 22:40:05 --> 404 Page Not Found --> old
+ERROR - 2025-06-30 22:40:12 --> 404 Page Not Found --> Old
+ERROR - 2025-06-30 22:40:20 --> 404 Page Not Found --> demo
+ERROR - 2025-06-30 22:44:40 --> 404 Page Not Found --> sandbox
+ERROR - 2025-06-30 22:44:56 --> 404 Page Not Found --> backup
+ERROR - 2025-06-30 22:45:03 --> 404 Page Not Found --> Backup
+ERROR - 2025-06-30 22:45:07 --> 404 Page Not Found --> BACKUP
+ERROR - 2025-06-30 22:45:14 --> 404 Page Not Found --> test
+ERROR - 2025-06-30 22:45:30 --> 404 Page Not Found --> 2020
+ERROR - 2025-06-30 22:47:23 --> 404 Page Not Found --> 2019
+ERROR - 2025-06-30 22:47:28 --> 404 Page Not Found --> site
+ERROR - 2025-06-30 22:49:47 --> 404 Page Not Found --> newsite
+ERROR - 2025-06-30 22:49:51 --> 404 Page Not Found --> Old
+ERROR - 2025-06-30 22:49:57 --> 404 Page Not Found --> dev
+ERROR - 2025-06-30 22:50:02 --> 404 Page Not Found --> copy
+ERROR - 2025-06-30 22:50:04 --> 404 Page Not Found --> bkp
+ERROR - 2025-06-30 22:50:18 --> 404 Page Not Found --> blogs
+ERROR - 2025-06-30 22:50:45 --> 404 Page Not Found --> bkp2
+ERROR - 2025-06-30 22:54:36 --> 404 Page Not Found --> old-site
+ERROR - 2025-06-30 22:54:49 --> 404 Page Not Found --> old_core
+ERROR - 2025-06-30 23:28:43 --> 404 Page Not Found --> robots.txt

@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-13 07:02:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-13 07:02:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 07:51:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 08:20:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 08:36:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 09:35:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 10:22:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 10:48:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 10:58:07 --> 404 Page Not Found --> wp-login.php
+ERROR - 2023-10-13 11:02:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 12:12:22 --> 404 Page Not Found --> wp-login.php
+ERROR - 2023-10-13 13:01:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 13:02:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 15:37:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 18:41:36 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2023-10-13 19:48:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-13 21:29:25 --> 404 Page Not Found --> .env
+ERROR - 2023-10-13 21:30:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 21:50:13 --> 404 Page Not Found --> nomi
+ERROR - 2023-10-13 22:08:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 22:26:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-13 23:29:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-13 23:39:24 --> 404 Page Not Found --> wp-json

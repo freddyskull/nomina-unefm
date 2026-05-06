@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-08-06 00:03:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-08-06 01:43:23 --> 404 Page Not Found --> .git
+ERROR - 2025-08-06 02:18:21 --> 404 Page Not Found --> .env
+ERROR - 2025-08-06 04:37:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-08-06 09:21:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-08-06 10:06:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-08-06 11:39:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-08-06 12:33:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-08-06 12:57:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-08-06 14:34:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-08-06 15:12:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-08-06 15:51:37 --> 404 Page Not Found --> .env
+ERROR - 2025-08-06 17:04:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-08-06 18:39:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2025-08-06 20:03:12 --> 404 Page Not Found --> files.php
+ERROR - 2025-08-06 20:47:03 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-08-06 21:07:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2025-08-06 21:42:03 --> 404 Page Not Found --> profesorjnbg:9506260jb
+ERROR - 2025-08-06 21:42:05 --> 404 Page Not Found --> profesorjnbg:9506260jb
+ERROR - 2025-08-06 21:42:05 --> 404 Page Not Found --> profesorjnbg:9506260jb
+ERROR - 2025-08-06 21:42:07 --> 404 Page Not Found --> profesorjnbg:9506260jb
+ERROR - 2025-08-06 21:42:10 --> 404 Page Not Found --> profesorjnbg:9506260jb
+ERROR - 2025-08-06 21:42:12 --> 404 Page Not Found --> profesorjnbg:9506260jb

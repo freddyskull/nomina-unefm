@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2026-03-01 00:28:29 --> 404 Page Not Found --> wp-admin
+ERROR - 2026-03-01 00:31:00 --> 404 Page Not Found --> nomi
+ERROR - 2026-03-01 01:09:13 --> 404 Page Not Found --> robots.txt
+ERROR - 2026-03-01 02:14:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2026-03-01 09:32:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2026-03-01 10:19:47 --> 404 Page Not Found --> blog/assets
+ERROR - 2026-03-01 13:28:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2026-03-01 15:45:04 --> 404 Page Not Found --> wp-admin
+ERROR - 2026-03-01 15:50:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2026-03-01 16:14:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2026-03-01 16:19:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2026-03-01 16:41:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2026-03-01 17:33:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2026-03-01 17:45:51 --> 404 Page Not Found --> robots.txt
+ERROR - 2026-03-01 18:41:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2026-03-01 20:23:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2026-03-01 20:34:12 --> 404 Page Not Found --> nomi
+ERROR - 2026-03-01 20:36:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2026-03-01 21:30:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2026-03-01 21:45:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2026-03-01 23:23:40 --> 404 Page Not Found --> wordpress

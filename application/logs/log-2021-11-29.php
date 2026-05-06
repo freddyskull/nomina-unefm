@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-29 01:46:33 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-11-29 07:27:56 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2021-11-29 07:33:28 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2021-11-29 07:33:29 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2021-11-29 07:33:29 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2021-11-29 07:33:29 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2021-11-29 07:43:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 08:11:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 08:39:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 09:15:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 09:43:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 09:44:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-11-29 10:25:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 11:50:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 12:05:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 12:08:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 15:16:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 16:42:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 16:46:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 18:25:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2021-11-29 18:29:11 --> 404 Page Not Found --> favicon.ico

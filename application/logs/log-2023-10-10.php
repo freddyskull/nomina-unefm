@@ -1,0 +1,77 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-10 08:01:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 08:08:29 --> 404 Page Not Found --> wp-content
+ERROR - 2023-10-10 08:08:30 --> 404 Page Not Found --> wp-content
+ERROR - 2023-10-10 08:21:03 --> 404 Page Not Found --> nomi
+ERROR - 2023-10-10 08:37:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 08:37:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 08:44:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 08:58:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 08:58:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 09:06:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 09:14:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 09:27:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 09:27:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 09:28:17 --> Severity: Warning  --> oci_parse(): ORA-01756: quoted string not properly terminated /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 187
+ERROR - 2023-10-10 09:28:17 --> Severity: Warning  --> oci_set_prefetch() expects parameter 1 to be resource, boolean given /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 172
+ERROR - 2023-10-10 09:28:17 --> Severity: Warning  --> oci_execute() expects parameter 1 to be resource, boolean given /var/www/nomina/system/database/drivers/oci8/oci8_driver.php 173
+ERROR - 2023-10-10 09:28:17 --> Severity: Warning  --> oci_fetch_assoc() expects parameter 1 to be resource, boolean given /var/www/nomina/system/database/drivers/oci8/oci8_result.php 154
+ERROR - 2023-10-10 09:28:17 --> Severity: Warning  --> oci_fetch_assoc() expects parameter 1 to be resource, boolean given /var/www/nomina/system/database/drivers/oci8/oci8_result.php 154
+ERROR - 2023-10-10 09:30:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 09:31:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 09:31:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 09:36:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 09:51:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 09:58:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 10:11:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 10:14:49 --> 404 Page Not Found --> nomi
+ERROR - 2023-10-10 10:14:50 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2023-10-10 10:14:55 --> 404 Page Not Found --> nomi
+ERROR - 2023-10-10 10:14:58 --> 404 Page Not Found --> nomi
+ERROR - 2023-10-10 10:23:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 10:33:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 11:07:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 11:07:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 11:26:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 11:36:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 11:49:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 11:52:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 11:52:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 12:18:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 12:50:10 --> 404 Page Not Found --> style.php
+ERROR - 2023-10-10 12:54:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 14:13:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 14:19:30 --> 404 Page Not Found --> blog/xmlrpc.php
+ERROR - 2023-10-10 14:53:42 --> 404 Page Not Found --> wp-content
+ERROR - 2023-10-10 15:38:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 15:40:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 15:54:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 16:05:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 16:22:09 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:22:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:22:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:22:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:22:50 --> 404 Page Not Found --> blog/assets
+ERROR - 2023-10-10 16:23:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 16:23:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:24:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:24:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:25:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:27:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:27:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:27:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2023-10-10 16:49:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 16:59:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 17:24:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 17:36:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 17:36:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 17:37:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 17:37:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 18:11:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 19:29:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 19:29:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 20:06:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 20:53:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 21:34:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-10-10 21:34:21 --> 404 Page Not Found --> robots.txt
