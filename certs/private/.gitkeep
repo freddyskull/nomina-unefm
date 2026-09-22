@@ -1,0 +1,12 @@
+# SSL
+
+Colocar aquí los certificados para `nomina.unefm.edu.ve`:
+
+```
+certs/
+├── nomina.unefm.edu.ve.crt
+└── private/
+    └── nomina.unefm.edu.ve.key
+```
+
+Generar con Certbot (en el host) o copiar los emitidos por tu autoridad.

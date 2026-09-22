@@ -544,6 +544,19 @@ class Blog extends CI_Controller
             }
             else
             {
+                // Bloquear emisión si el personal está inactivo en nómina
+                $this->load->model('user_model');
+                $this->load->model('payroll_model');
+                $codtipnom = $this->session->userdata('codtipnom');
+                if (empty($codtipnom)) {
+                    $last_nomina = $this->payroll_model->get_last_nomina_info($this->session->userdata('cedula'), $this->session->userdata('tipoper'));
+                    if ($last_nomina) {
+                        $codtipnom = $last_nomina['CODTIPNOM'];
+                    }
+                }
+                if ($this->user_model->empleado_inactivo($this->session->userdata('cedula'), $codtipnom)) {
+                    redirect('blog/consttra');
+                }
                 
                 $data['sesion']=$this->session->userdata('tipoper');
                 

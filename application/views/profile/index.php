@@ -16,7 +16,8 @@
                     <?php echo substr($sesion, 0, 1); ?>
                 </div>
                 <h2 class="text-xl font-bold text-slate-900"><?php echo $sesion; ?></h2>
-                <p class="text-slate-500 text-sm mb-6 uppercase tracking-wider font-semibold"><?php echo $this->session->userdata('tipoper') == '01' ? 'Personal Docente' : 'Personal Administrativo/Obrero'; ?></p>
+                <?php $tipo_usuario = array('01' => 'Personal Docente', '02' => 'Personal Administrativo', '03' => 'Personal Obrero'); ?>
+                <p class="text-slate-500 text-sm mb-6 uppercase tracking-wider font-semibold"><?php echo isset($tipo_usuario[$this->session->userdata('tipoper')]) ? $tipo_usuario[$this->session->userdata('tipoper')] : 'Personal'; ?></p>
                 
                 <div class="space-y-2">
                     <a href="<?php echo site_url('profile/editar_clave') ?>" class="block w-full px-4 py-2.5 bg-slate-50 text-slate-600 rounded-xl font-bold text-sm hover:bg-slate-100 transition-colors">

@@ -9,6 +9,8 @@ class Constanciapdf extends PDF_MC_Table
         
     }
 
+    public $codigoqr = '';
+
 
     // Cabecera de página
     function Header() 
@@ -16,10 +18,14 @@ class Constanciapdf extends PDF_MC_Table
         $this->SetY(6);
         $this->SetFont('Arial', '', 7);
         $this->SetTextColor(0);
-        $this->Cell(160, 5,'FECHA: '.date("d/m/Y"), 0,1,'R');
-         $this->Image(FCPATH . 'source/img/wensly_2.jpg', 18, 12, 164);
+        $this->Image(FCPATH . 'source/img/wensly_2.jpg', 18, 12, 155);
         $this->Ln(35);
-      
+
+        // Código QR de validación en la esquina superior derecha
+        if (!empty($this->codigoqr)) {
+            $qr_size = 30;
+            $this->DibujarQR($this->codigoqr, $qr_size, $this->w - 3 - $qr_size, 7);
+        }
     }
 
 
@@ -420,8 +426,48 @@ class Constanciapdf extends PDF_MC_Table
 
     
     
+    // Dibuja un código QR en la posición indicada usando la matriz de TCPDF
+    function DibujarQR($url, $size = 19, $x = null, $y = null)
+    {
+        require_once(FCPATH . 'application/models/pdf/tcpdf_barcodes_2d.php');
+
+        $barcode = new TCPDF2DBarcode($url, 'QRCODE,H');
+        $arr = $barcode->getBarcodeArray();
+        if (!is_array($arr)) {
+            return;
+        }
+
+        $quiet = 4; // zona blanca de seguridad
+        $cols = $arr['num_cols'] + 2 * $quiet;
+        $celda = $size / $cols;
+
+        if ($x === null) {
+            $x = ($this->w - $size) / 2;
+        }
+        if ($y === null) {
+            $y = $this->GetY();
+        }
+
+        // fondo blanco (incluye zona de seguridad)
+        $this->SetFillColor(255, 255, 255);
+        $this->Rect($x, $y, $size, $size, 'F');
+
+        // módulos negros
+        $this->SetFillColor(0, 0, 0);
+        for ($r = 0; $r < $arr['num_rows']; $r++) {
+            for ($c = 0; $c < $arr['num_cols']; $c++) {
+                if ($arr['bcode'][$r][$c]) {
+                    $this->Rect($x + ($c + $quiet) * $celda, $y + ($r + $quiet) * $celda, $celda, $celda, 'F');
+                }
+            }
+        }
+
+        $this->SetXY($x, $y + $size);
+    }
+
+    
     // Pie de página
-    function Footer() 
+    function Footer()
     {
         $this->SetY(-95);
         $this->SetFont('Arial', '', 12);
@@ -430,7 +476,7 @@ class Constanciapdf extends PDF_MC_Table
         $this->ln(31);
 
         $this->Cell(58, 5,'', 0,0,'L');
-        $this->Cell(121, 5,'Dra. Natali Galicia                                  Certificado', 0,0,'L');
+        $this->Cell(121, 5,'Dra. Natali Galicia', 0,0,'L');
         $this->ln(5);
         $this->Cell(45, 5,'', 0,0,'L');
         $this->Cell(150, 5,'Directora de Recursos Humanos', 0,0,'L');
@@ -442,12 +488,13 @@ class Constanciapdf extends PDF_MC_Table
 
     }
 
-    function imprimir($tipoper,$datosper, $cargos, $fechaini,$fechaegre,$sueldo,$ces,$fechacon,$monto,$cuota,$tf,$sub,$monto2,$monto3) 
+    function imprimir($tipoper,$datosper, $cargos, $fechaini,$fechaegre,$sueldo,$ces,$fechacon,$monto,$cuota,$tf,$sub,$monto2,$monto3,$codigoqr='') 
     {
         $pdf = new Constanciapdf('P', 'mm', 'Letter');
         $pdf->tipoper=$tipoper;
         $pdf->sueldo=$sueldo; //tipo de sueldo
         $pdf->ces=$ces;
+        $pdf->codigoqr=$codigoqr; //URL de validación para el código QR
         $pdf->datosper=$datosper;
         $pdf->fechaegre=$fechaegre;
         $pdf->cargos=$cargos;

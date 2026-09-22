@@ -1,18 +1,41 @@
-
-
 services:
   app:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: nomina-freddy-app
-    ports:
-      - "8080:80"
+    container_name: nomina-unefm-app
+    expose:
+      - "80"
     volumes:
       - .:/var/www/html
     environment:
       - TZ=America/Caracas
+      # URL pública que se usa para generar los QR de validación
+      - APP_URL=https://nomina.unefm.edu.ve
     restart: always
+    networks:
+      - nomina_net
 
-# Nota: No incluimos una base de datos local porque el sistema 
+  proxy:
+    image: nginx:1.25-alpine
+    container_name: nomina-unefm-proxy
+    depends_on:
+      - app
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      # Montar certificados SSL emitidos (certbot / Let's Encrypt)
+      - ./certs:/etc/ssl/certs:ro
+      - ./certs/private:/etc/ssl/private:ro
+    restart: always
+    networks:
+      - nomina_net
+
+networks:
+  nomina_net:
+    driver: bridge
+
+# Nota: No incluimos una base de datos local porque el sistema
 # está configurado para conectarse a una DB Oracle externa (150.187.4.18)

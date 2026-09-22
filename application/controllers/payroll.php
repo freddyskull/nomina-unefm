@@ -83,6 +83,16 @@ class Payroll extends CI_Controller
         $data['sexo'] = $this->session->userdata('sexo');
         $data['datosper'] = $this->user_model->get_datos_personal($this->session->userdata('cedula'), $this->session->userdata('tipoper'));
 
+        $cedula = $this->session->userdata('cedula');
+        $codtipnom = $this->session->userdata('codtipnom');
+        if (empty($codtipnom)) {
+            $last_nomina = $this->payroll_model->get_last_nomina_info($cedula, $this->session->userdata('tipoper'));
+            if ($last_nomina) {
+                $codtipnom = $last_nomina['CODTIPNOM'];
+            }
+        }
+        $data['inactivo'] = $this->user_model->empleado_inactivo($cedula, $codtipnom);
+
         $this->load->view('templates/header', $data);
         $this->load->view('payroll/constancias', $data);
         $this->load->view('templates/footer');
@@ -118,6 +128,15 @@ class Payroll extends CI_Controller
             }
         }
 
+        // Bloquear emisión si el personal está inactivo en nómina
+        if ($this->user_model->empleado_inactivo($cedula, $codtipnom)) {
+            redirect('payroll/constancias');
+        }
+
+        // Código QR para validación de la constancia (válida 3 meses desde su emisión)
+        $this->load->helper('mihelper');
+        $qrcode_url = site_url('validar_constancia/index/' . constancia_token($cedula));
+
         // Gather all data required by Constanciapdf::imprimir
         $datosper = $this->user_model->get_datos_personal($cedula, $tipoper);
         $cargos = $this->user_model->get_cargo_info($cedula, $tipoper);
@@ -149,7 +168,8 @@ class Payroll extends CI_Controller
             $tf,
             $sub,
             $monto2,
-            $monto3
+            $monto3,
+            $qrcode_url
         );
     }
     public function arc()

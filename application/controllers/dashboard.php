@@ -26,13 +26,27 @@ class Dashboard extends CI_Controller
         $data['sexo'] = $this->session->userdata('sexo');
         $data['datosper'] = $this->user_model->get_datos_personal($this->session->userdata('cedula'), $this->session->userdata('tipoper'));
         $data['cargaf'] = $this->user_model->get_carga_familiar($this->session->userdata('cedula'));
-        
-        $data['payroll_summary'] = $this->payroll_model->get_payroll_summary(
-            $this->session->userdata('cedula'),
-            $this->session->userdata('tipoper'),
-            $this->session->userdata('codnom'),
-            $this->session->userdata('codtipnom')
-        );
+        $data['datosban'] = $this->user_model->get_datos_bancarios($this->session->userdata('cedula'), $this->session->userdata('tipoper'));
+
+        $cedula = $this->session->userdata('cedula');
+        $tipoper = $this->session->userdata('tipoper');
+        $codnom = $this->session->userdata('codnom');
+        $codtipnom = $this->session->userdata('codtipnom');
+
+        if (empty($codnom) || empty($codtipnom)) {
+            $last_nomina = $this->payroll_model->get_last_nomina_info($cedula, $tipoper);
+            if ($last_nomina) {
+                $codnom = $last_nomina['CODNOM'];
+                $codtipnom = $last_nomina['CODTIPNOM'];
+            }
+        }
+
+        // Bloquear cálculo del sueldo si el personal está inactivo en nómina
+        $data['inactivo'] = $this->user_model->empleado_inactivo($cedula, $codtipnom);
+
+        if (!$data['inactivo']) {
+            $data['payroll_summary'] = $this->payroll_model->get_payroll_summary($cedula, $tipoper, $codnom, $codtipnom);
+        }
 
         $this->load->view('templates/header', $data);
         $this->load->view('dashboard/index', $data);

@@ -57,6 +57,39 @@ class User_model extends CI_Model
         return $data;
     }
 
+    public function get_datos_bancarios($cedula, $tipoper)
+    {
+        $q = "select a.NUMCTABAN, b.DESCRIP ";
+        $q .= "from NOMINA.SITUAEMPNOM a, NOMINA.TIPOBANCO b ";
+        $q .= "where a.CEDEMP=? and a.CODNOM='-' ";
+        $q .= "and a.CODTIPNOM in (select CODTIPNOM from NOMINA.TIPONOMINA where CODTIPPER=?) ";
+        $q .= "and a.CODBANEMP = b.CODIGO";
+
+        $query = $this->db->query($q, array($cedula, $tipoper));
+        if ($query->num_rows() > 0) {
+            $row = $query->row();
+            return array(
+                'numctaban' => $row->NUMCTABAN,
+                'banco' => $row->DESCRIP
+            );
+        }
+        return null;
+    }
+
+    public function get_nombre_empleado($cedula)
+    {
+        $q = "select NOMEMP, APEEMP from PERSONAL.EMPLEADOS where CEDEMP=?";
+        $query = $this->db->query($q, array($cedula));
+        if ($query->num_rows() > 0) {
+            $row = $query->row();
+            return array(
+                'nombre' => $row->NOMEMP,
+                'apellido' => $row->APEEMP
+            );
+        }
+        return null;
+    }
+
     public function get_empleado($cedula, $tipoper)
     {
         $q = "select a.CEDEMP, a.NOMEMP, a.APEEMP, a.DIREMP, a.TELEMP, b.CORREO, a.FECNACEMP, a.LUGNACEMP, a.PAISNACEMP, a.RIF ";
@@ -379,5 +412,24 @@ class User_model extends CI_Model
             );
         }
         return array('tipo_personal' => 'PERSONAL', 'condicion' => '');
+    }
+
+    public function empleado_inactivo($cedula, $codtipnom)
+    {
+        if (empty($cedula) || empty($codtipnom)) {
+            return FALSE;
+        }
+
+        $q = "SELECT estemp, codnom FROM NOMINA.SITUAEMPNOM "
+           . "WHERE CEDEMP=? AND CODNOM='-' AND CODTIPNOM=?";
+        $query = $this->db->query($q, array($cedula, $codtipnom));
+        if ($query->num_rows() > 0) {
+            foreach ($query->result() as $row) {
+                if ($row->ESTEMP == '00' && $row->CODNOM == '-') {
+                    return TRUE;
+                }
+            }
+        }
+        return FALSE;
     }
 }

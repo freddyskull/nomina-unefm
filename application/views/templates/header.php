@@ -43,10 +43,27 @@
     <div class="min-h-screen flex">
         
         <!-- Sidebar (Desktop) -->
-        <aside class="w-64 bg-white border-r border-slate-300 hidden lg:flex flex-col sticky top-0 h-screen shadow-lg">
-            <div class="p-6 border-b border-slate-200 flex items-center justify-center">
-                <img src="<?php echo base_url('source/img/LOGO UNEFM.png')?>" class="h-12 w-auto" alt="Logo UNEFM">
+        <aside class="w-60 bg-white border-r border-slate-300 hidden lg:flex flex-col sticky top-0 h-screen shadow-lg">
+            <div class="p-4 border-b border-slate-200 flex items-center justify-center">
+                <img src="<?php echo base_url('source/img/LOGO UNEFM.png')?>" class="h-10 w-auto" alt="Logo UNEFM">
             </div>
+
+            <?php
+                if (!isset($inactivo)) {
+                    $this->load->helper('mihelper');
+
+                    $cedula_usr = $this->session->userdata('cedula');
+                    $codtip_usr = $this->session->userdata('codtipnom');
+                    if (empty($codtip_usr) && !empty($cedula_usr)) {
+                        $this->load->model('payroll_model');
+                        $last_usr = $this->payroll_model->get_last_nomina_info($cedula_usr, $this->session->userdata('tipoper'));
+                        if ($last_usr) {
+                            $codtip_usr = $last_usr['CODTIPNOM'];
+                        }
+                    }
+                    $inactivo = empleado_inactivo($cedula_usr, $codtip_usr);
+                }
+            ?>
             
             <?php 
                 $s1 = $this->uri->segment(1);
@@ -54,57 +71,57 @@
                 $active_class = "bg-primary/10 text-primary border-primary/20";
                 $inactive_class = "text-slate-600 hover:bg-slate-50 hover:text-primary border-transparent";
             ?>
-            <nav class="flex-1 p-4 space-y-1 overflow-y-auto">
-                <a href="<?php echo site_url('dashboard') ?>" class="flex items-center gap-3 px-4 py-3 rounded-xl transition-all border <?php echo ($s1 == 'dashboard') ? $active_class : $inactive_class; ?>">
+            <nav class="flex-1 p-3 space-y-0.5 overflow-y-auto">
+                <a href="<?php echo site_url('dashboard') ?>" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all border <?php echo ($s1 == 'dashboard') ? $active_class : $inactive_class; ?>">
                     <i class="fa-solid fa-house w-5"></i>
                     <span class="font-medium">Inicio</span>
                 </a>
                 
-                <div class="pt-4 pb-2 px-4">
-                    <span class="text-xs font-bold text-slate-600 uppercase tracking-widest">Servicios</span>
+                <div class="pt-3 pb-1 px-3">
+                    <span class="text-[10px] font-bold text-slate-600 uppercase tracking-widest">Servicios</span>
                 </div>
                 
-                <a href="<?php echo site_url('payroll/constancias') ?>" class="flex items-center gap-3 px-4 py-3 rounded-xl transition-all border <?php echo ($s1 == 'payroll' && $s2 == 'constancias') ? $active_class : $inactive_class; ?>">
+                <a href="<?php echo site_url('payroll/constancias') ?>" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all border <?php echo ($s1 == 'payroll' && $s2 == 'constancias') ? $active_class : $inactive_class; ?>">
                     <i class="fa-solid fa-file-contract w-5"></i>
                     <span class="font-medium">Constancias</span>
                 </a>
                 
-                <a href="<?php echo site_url('payroll/nominas') ?>" class="flex items-center gap-3 px-4 py-3 rounded-xl transition-all border <?php echo ($s1 == 'payroll' && $s2 == 'nominas') ? $active_class : $inactive_class; ?>">
+                <a href="<?php echo site_url('payroll/nominas') ?>" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all border <?php echo ($s1 == 'payroll' && $s2 == 'nominas') ? $active_class : $inactive_class; ?>">
                     <i class="fa-solid fa-receipt w-5"></i>
                     <span class="font-medium">Nóminas</span>
                 </a>
 
-                <a href="<?php echo site_url('payroll/arc') ?>" class="flex items-center gap-3 px-4 py-3 rounded-xl transition-all border <?php echo ($s1 == 'payroll' && $s2 == 'arc') ? $active_class : $inactive_class; ?>">
+                <a href="<?php echo site_url('payroll/arc') ?>" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all border <?php echo ($s1 == 'payroll' && $s2 == 'arc') ? $active_class : $inactive_class; ?>">
                     <i class="fa-solid fa-file-invoice-dollar w-5"></i>
                     <span class="font-medium">Planilla ARC</span>
                 </a>
 
-                <a href="<?php echo site_url('payroll/adelanto_prestaciones') ?>" class="flex items-center gap-3 px-4 py-3 rounded-xl transition-all border <?php echo ($s1 == 'payroll' && $s2 == 'adelanto_prestaciones') ? $active_class : $inactive_class; ?>">
+                <a href="<?php echo site_url('payroll/adelanto_prestaciones') ?>" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all border <?php echo ($s1 == 'payroll' && $s2 == 'adelanto_prestaciones') ? $active_class : $inactive_class; ?>">
                     <i class="fa-solid fa-hand-holding-dollar w-5"></i>
                     <span class="font-medium">Adelanto Prest.</span>
                 </a>
 
-                <a href="<?php echo site_url('payroll/iiiccu') ?>" class="flex items-center gap-3 px-4 py-3 rounded-xl transition-all border <?php echo ($s1 == 'payroll' && $s2 == 'iiiccu') ? $active_class : $inactive_class; ?>">
+                <a href="<?php echo site_url('payroll/iiiccu') ?>" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all border <?php echo ($s1 == 'payroll' && $s2 == 'iiiccu') ? $active_class : $inactive_class; ?>">
                     <i class="fa-solid fa-file-contract w-5"></i>
                     <span class="font-medium">Detalle III CCU</span>
                 </a>
 
-                <div class="pt-4 pb-2 px-4">
-                    <span class="text-xs font-bold text-slate-400 uppercase tracking-widest">Usuario</span>
+                <div class="pt-3 pb-1 px-3">
+                    <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Usuario</span>
                 </div>
 
-                <a href="<?php echo site_url('profile') ?>" class="flex items-center gap-3 px-4 py-3 rounded-xl transition-all border <?php echo ($s1 == 'profile') ? $active_class : $inactive_class; ?>">
+                <a href="<?php echo site_url('profile') ?>" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all border <?php echo ($s1 == 'profile') ? $active_class : $inactive_class; ?>">
                     <i class="fa-solid fa-user-gear w-5"></i>
                     <span class="font-medium">Mi Perfil</span>
                 </a>
 
-                <a href="<?php echo site_url('auth/logout') ?>" class="flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-red-50 text-red-600 transition-colors">
+                <a href="<?php echo site_url('auth/logout') ?>" class="flex items-center gap-3 px-3 py-2 rounded-lg hover:bg-red-50 text-red-600 transition-colors">
                     <i class="fa-solid fa-right-from-bracket w-5"></i>
                     <span class="font-medium">Cerrar Sesión</span>
                 </a>
             </nav>
             
-            <div class="p-6 border-t border-slate-200 bg-slate-50">
+            <div class="p-4 border-t border-slate-200 bg-slate-50">
                 <div class="flex items-center gap-3">
                     <div class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary font-bold">
                         <?php echo substr($sesion, 0, 1); ?>
@@ -113,6 +130,9 @@
                         <p class="text-sm font-semibold truncate"><?php echo $sesion; ?></p>
                         <p class="text-[10px] text-slate-500 uppercase font-bold tracking-tight truncate">
                             <?php echo $this->session->userdata('tipo_personal') . ' / ' . $this->session->userdata('condicion'); ?>
+                        </p>
+                        <p class="text-[8px] font-bold uppercase tracking-tight truncate <?php echo (!empty($inactivo)) ? 'text-red-500' : 'text-green-600'; ?>">
+                            <?php echo (!empty($inactivo)) ? 'Inactivo en nómina' : 'Activo en nómina'; ?>
                         </p>
                     </div>
                 </div>
@@ -133,4 +153,4 @@
             </header>
 
             <!-- Page Content -->
-            <div class="p-6 lg:p-10 max-w-7xl w-full mx-auto">
+            <div class="p-4 lg:p-6 max-w-7xl w-full mx-auto">

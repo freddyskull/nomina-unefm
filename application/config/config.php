@@ -23,9 +23,16 @@
 |
 */
 
-$config['base_url'] = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
-$config['base_url'] .= "://".$_SERVER['HTTP_HOST'];
-$config['base_url'] .= str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']);
+// URL base pública. Permite fijarla con la variable de entorno APP_URL
+// (útil detrás de un reverse proxy, ej. https://nomina.unefm.edu.ve).
+$public_url = getenv('APP_URL');
+if ($public_url) {
+    $config['base_url'] = rtrim($public_url, '/') . '/';
+} else {
+    $config['base_url'] = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
+    $config['base_url'] .= "://".$_SERVER['HTTP_HOST'];
+    $config['base_url'] .= str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']);
+}
 /*
 |--------------------------------------------------------------------------
 | Index File
@@ -36,7 +43,7 @@ $config['base_url'] .= str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 
 

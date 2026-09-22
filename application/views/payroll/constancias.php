@@ -7,6 +7,43 @@
         <h1 class="text-3xl font-bold tracking-tight text-slate-900">Constancias de Trabajo</h1>
     </div>
 
+    <?php if (isset($inactivo) && $inactivo): ?>
+
+    <!-- Alerta: Usuario inactivo -->
+    <div class="bg-white rounded-3xl border border-slate-200 shadow-sm overflow-hidden">
+        <div class="p-8 border-b border-slate-200 bg-slate-50 border-l-4 border-l-red-500">
+            <h2 class="text-lg font-bold text-slate-800">Generar Documento</h2>
+            <p class="text-sm text-slate-500 mt-1">No disponible en estos momentos.</p>
+        </div>
+        <div class="p-8">
+            <div class="p-6 bg-red-50 border border-red-100 rounded-2xl flex items-start gap-4">
+                <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-red-600 shadow-sm flex-shrink-0">
+                    <i class="fa-solid fa-user-slash"></i>
+                </div>
+                <div class="text-sm text-red-700 leading-relaxed">
+                    <p class="font-bold mb-1">No es posible generar constancias de trabajo</p>
+                    <p>El personal se encuentra <strong>inactivo en nómina</strong>. Por favor, contactar con el departamento de Recursos Humanos para regularizar su situación.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Usuario inactivo -->
+    <div id="modal-inactivo" class="fixed inset-0 z-50 flex items-center justify-center bg-slate-900/50 p-4" role="dialog" aria-modal="true">
+        <div class="bg-white rounded-2xl shadow-2xl max-w-md w-full p-6 sm:p-8 text-center">
+            <div class="w-16 h-16 mx-auto rounded-full bg-red-50 flex items-center justify-center">
+                <i class="fa-solid fa-user-slash text-2xl text-red-600"></i>
+            </div>
+            <h2 class="text-xl font-bold text-slate-900 mt-4">Usuario inactivo en nómina</h2>
+            <p class="text-sm text-slate-500 mt-2 leading-relaxed">Por favor, contactar con <strong>Recursos Humanos</strong> para regularizar su situación.</p>
+            <button onclick="cerrarModalInactivo()" class="mt-6 w-full sm:w-auto bg-primary hover:bg-primary-dark text-white font-bold px-6 py-2.5 rounded-xl transition-all">
+                Entendido
+            </button>
+        </div>
+    </div>
+
+    <?php else: ?>
+
     <div class="bg-white rounded-3xl border border-slate-200 shadow-sm overflow-hidden">
         <div class="p-8 border-b border-slate-200 bg-slate-50 border-l-4 border-l-primary">
             <h2 class="text-lg font-bold text-slate-800">Generar Documento</h2>
@@ -76,6 +113,8 @@
         </div>
     </div>
 
+    <?php endif; ?>
+
     <!-- Info Box -->
     <div class="bg-blue-50 border border-blue-100 p-6 rounded-3xl flex items-start gap-4">
         <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-blue-600 shadow-sm flex-shrink-0">
@@ -86,5 +125,12 @@
             <p>Las constancias emitidas por este sistema están firmadas digitalmente y pueden ser verificadas por el departamento de recursos humanos.</p>
         </div>
     </div>
+
+    <script>
+        function cerrarModalInactivo() {
+            var modal = document.getElementById('modal-inactivo');
+            if (modal) { modal.style.display = 'none'; }
+        }
+    </script>
 
 </div>
