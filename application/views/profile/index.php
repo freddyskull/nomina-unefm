@@ -71,10 +71,6 @@
                                     <p class="font-semibold text-slate-700"><?php echo $e[3] ?: 'No registrada'; ?></p>
                                 </div>
                                 <div class="space-y-1">
-                                    <p class="text-xs font-bold text-slate-400 uppercase tracking-wider">Fecha de Nacimiento</p>
-                                    <p class="font-semibold text-slate-700"><?php echo $e[6]; ?></p>
-                                </div>
-                                <div class="space-y-1">
                                     <p class="text-xs font-bold text-slate-400 uppercase tracking-wider">Lugar de Nacimiento</p>
                                     <p class="font-semibold text-slate-700"><?php echo $e[7] . ', ' . $e[8]; ?></p>
                                 </div>

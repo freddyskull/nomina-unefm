@@ -10,8 +10,11 @@ services:
       - .:/var/www/html
     environment:
       - TZ=America/Caracas
-      # URL pública que se usa para generar los QR de validación
-      - APP_URL=https://nomina.unefm.edu.ve
+      # URL pública; el puerto 80 lo enruta el nginx principal (unefm-nginx)
+      # Debe ser https: el gateway termina TLS en 443. Si queda en http, los
+      # formularios se envian en claro y el navegador avisa que la
+      # informacion no es segura.
+      - APP_URL=https://nomina2.unefm.edu.ve
     restart: always
     networks:
       - nomina_net
@@ -21,14 +24,12 @@ services:
     container_name: nomina-unefm-proxy
     depends_on:
       - app
-    ports:
-      - "80:80"
-      - "443:443"
+    # Sin puerto publicado en el host: solo lo alcanza el nginx principal
+    # (unefm-nginx) vía la red compartida nomina_net.
+    expose:
+      - "80"
     volumes:
       - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
-      # Montar certificados SSL emitidos (certbot / Let's Encrypt)
-      - ./certs:/etc/ssl/certs:ro
-      - ./certs/private:/etc/ssl/private:ro
     restart: always
     networks:
       - nomina_net

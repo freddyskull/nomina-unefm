@@ -5,13 +5,10 @@ ENV APACHE_DOCUMENT_ROOT /var/www/html
 RUN sed -ri -e 's!/var/www/html/public!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/sites-available/*.conf
 RUN sed -ri -e 's!/var/www/html/public!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/apache2.conf /etc/apache2/conf-available/*.conf
 
-RUN apt-get update && apt-get install -y \
-    libpng-dev \
-    libjpeg-dev \
-    libzip-dev \
-    unzip \
-    && docker-php-ext-configure gd --with-jpeg \
-    && docker-php-ext-install gd zip bcmath mysqli pdo pdo_mysql
+# La imagen base ya trae gd, zip, pdo, pdo_mysql y oci8.
+# Solo falta bcmath (usado por los barcodes PDF417/QR de las constancias).
+# NOTA: sin apt-get porque el repo bullseye está EOL (404 en sus paquetes de seguridad).
+RUN docker-php-ext-install bcmath
 
 # Habilitar mod_rewrite
 RUN a2enmod rewrite
